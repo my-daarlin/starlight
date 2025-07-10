@@ -317,3 +317,28 @@ metafile = true
 file = "resourcepacks/clearview.pw.toml"
 hash = "b22cd9af128604e8c66e8537dba3789d66431e1a94167b98e79da713a02ad8df"
 metafile = true
+
+[[files]]
+file = "resourcepacks/fast-better-grass.pw.toml"
+hash = "774b51f7257a3a18f0afc40c155bac4bb1dbade055170137f2ac96456f0e3653"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mob-crates.pw.toml"
+hash = "8e09d4d7c0b6d94ca896c826234f15daeaf00716fca5a8f549b492fe8c312ad0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/new-glowing-ores.pw.toml"
+hash = "0511040326c7649fde9b5784fff73b083f55e4ae7d43bfebc5e494cde0fe49e3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/night-ui.pw.toml"
+hash = "cd643baf5c9ef6cf31d3526fa4ca328560596f2b5b83ec5a2eec93106889d202"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tiny-totem.pw.toml"
+hash = "1cbc15a65c0942f592a426275dd048da1ef61b9e8468ec207c0c61458f52fa1a"
+metafile = true
