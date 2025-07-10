@@ -23,3 +23,6 @@ Icon?
 
 # Mods folder (Packwiz regenerates it)
 mods/
+
+# Generated files (by scripts)
+generated/
