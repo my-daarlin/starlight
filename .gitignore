@@ -22,4 +22,4 @@ Icon?
 *.iml
 
 # Mods folder (Packwiz regenerates it)
-packwiz/mods/
+mods/
