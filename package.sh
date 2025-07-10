@@ -2,37 +2,44 @@
 
 set -euo pipefail
 
-# === Config ===
+# ───────────────────────────────────────────────────────────────────────────────
+# .mrpack Package Script
+# Creates a .mrpack file for a modpack using Packwiz, with an override system.
+# The override directory will be merged with the main one, so if I have a mods
+# directory in the override folder, custom mod jars from there will be pasted into
+# the final main mods directory.
+# ───────────────────────────────────────────────────────────────────────────────
+
+# ─── Configuration ─────────────────────────────────────────────────────────────
+
 PACK_NAME="Starlight"
-TEMP_DIR=".tmp_packwiz_export"
 EXPORT_DIR="generated"
+TEMP_DIR=".tmp_packwiz_export"
 EXPORT_FILE="$EXPORT_DIR/$PACK_NAME.mrpack"
 
-# === Logging ===
-log() {
-    echo " 📦 $1"
-}
+# ─── Logging ───────────────────────────────────────────────────────────────────
 
-success() {
-    echo " ✅ $1"
-}
-
+log() { echo " 📦 $1"; }
+success() { echo " ✅ $1"; }
 error() {
     echo " ❌ $1" >&2
     exit 1
 }
 
-# === Check packwiz ===
+# ─── Dependency checks ─────────────────────────────────────────────────────────
+
+# Packwiz
 if ! command -v packwiz &>/dev/null; then
     error "Packwiz is not installed or not in PATH."
 fi
 
-# === Check for required files ===
+# Required files
 if [[ ! -f "pack.toml" ]]; then
     error "pack.toml not found! Must be run from the root of the modpack."
 fi
 
-# === Display Header Info ===
+# ─── Header ────────────────────────────────────────────────────────────────────
+
 override_mod_count=$(find overrides/mods -maxdepth 1 -type f 2>/dev/null | wc -l | xargs)
 mod_count=$(($(find mods -maxdepth 1 -type f 2>/dev/null | wc -l | xargs) + override_mod_count))
 resourcepack_count=$(($(find resourcepacks -maxdepth 1 -type f 2>/dev/null | wc -l | xargs) + $(find overrides/resourcepacks -maxdepth 1 -type f 2>/dev/null | wc -l | xargs)))
@@ -45,7 +52,8 @@ echo " 🎨 Resource Packs: $resourcepack_count total ($override_resourcepack_co
 echo " 🛠 Using: Packwiz"
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 
-# === Prep temp dir ===
+# ─── Temp dir setup ────────────────────────────────────────────────────────────
+
 mkdir -p "$EXPORT_DIR"
 rm -rf "$TEMP_DIR"
 mkdir "$TEMP_DIR"
@@ -58,7 +66,8 @@ for entry in * .*; do
 done
 success "Copied base project files."
 
-# === Merge overrides if they exist ===
+# ─── Overrides ─────────────────────────────────────────────────────────────────
+
 if [[ -d "overrides" ]]; then
     log "Merging overrides into temp directory..."
     find overrides -type f | while read -r filepath; do
@@ -72,11 +81,15 @@ else
     log "No overrides found, skipping override merge."
 fi
 
+# ─── Export ────────────────────────────────────────────────────────────────────
+
 log "Exporting modpack with packwiz..."
 cd "$TEMP_DIR"
 packwiz modrinth export -o "../$EXPORT_FILE" >/dev/null 2>&1 || error "Packwiz export failed"
 cd - >/dev/null
 success "Modpack exported to $EXPORT_FILE"
+
+# ─── Cleanup ───────────────────────────────────────────────────────────────────
 
 log "Cleaning up temp files..."
 rm -rf "$TEMP_DIR"
