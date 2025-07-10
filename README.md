@@ -1,32 +1,36 @@
 <p align="center">
-  <img src="assets/starlight.png" alt="Starlight Banner" width="80%">
+  <img src="https://github.com/my-daarlin/starlight/blob/main/assets/starlight.png?raw=true" alt="Starlight Banner" width="80%">
 </p>
+
 <h1 align="center">𝙎𝙏𝘼𝙍𝙇𝙄𝙂𝙃𝙏</h1>
 
 <p align="center">
-  <a href="https://fabricmc.net/">
-    <img src="https://img.shields.io/badge/Fabric-0.16.14-blueviolet?logo=fabric&logoColor=white" alt="Fabric Version">
-  </a>
-  <a href="https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21">
-    <img src="https://img.shields.io/badge/Minecraft-1.21-green?logo=minecraft" alt="Minecraft">
-  </a>
-  <a href="https://modrinth.com/project/kWqlGiOE">
-    <img src="https://img.shields.io/badge/Modrinth-Published-5da545?logo=modrinth&logoColor=white" alt="Modrinth">
-  </a>
-  <a href="https://packwiz.infra.link/">
-    <img src="https://img.shields.io/badge/built%20with-packwiz-9146ff?logo=go&logoColor=white" alt="Packwiz">
-  </a>
+    <a href="https://fabricmc.net/">
+        <img src="https://img.shields.io/badge/Fabric-0.16.14-blueviolet?logo=fabric&logoColor=white" alt="Fabric Version">
+    </a>
+    <a href="https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21">
+        <img src="https://img.shields.io/badge/Minecraft-1.21-green?logo=minecraft" alt="Minecraft">
+    </a>
+    <a href="https://modrinth.com/project/kWqlGiOE">
+        <img src="https://img.shields.io/badge/Modrinth-Published-5da545?logo=modrinth&logoColor=white" alt="Modrinth">
+    </a>
+    <a href="https://packwiz.infra.link/">
+        <img src="https://img.shields.io/badge/built%20with-packwiz-9146ff?logo=go&logoColor=white" alt="Packwiz">
+    </a>
+    <a href="https://github.com/my-daarlin/starlight">
+        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
 </p>
 
 This modpack is built to feel like **Minecraft, but smoother and faster** — a seamless blend of vanilla fidelity and technical power.
 
 ### ✨ Features:
 
-* ⚙️ **Performance** — powered by mods like Sodium, Lithium, and FerriteCore for a lightweight, high-FPS experience
-* 🧠 **Technical utility** — includes tools like Carpet, MiniHUD, WorldEdit, and others for redstoners and world builders
-* 💖 **Quality of life** — better UI, tooltips, world maps, and helpful tweaks without disrupting the vanilla flow
+- ⚙️ **Performance** — powered by mods like Sodium, Lithium, and FerriteCore for a lightweight, high-FPS experience
+- 🧠 **Technical utility** — includes tools like Carpet, MiniHUD, WorldEdit, and others for redstoners and world builders
+- 💖 **Quality of life** — better UI, tooltips, world maps, and helpful tweaks without disrupting the vanilla flow
 
-🎨 Designed to stay **true to vanilla**, while offering subtle enhancements for players who want more — without *feeling* like a modded pack.
+🎨 Designed to stay **true to vanilla**, while offering subtle enhancements for players who want more — without _feeling_ like a modded pack.
 
 ## 📦 Installation
 
@@ -78,32 +82,33 @@ This will include:
 - Everything from the `overrides/` folder (config, resourcepacks, etc.)
 - Anything else in the repository not included in the `.packwizignore` file
 
-To generate a mod list with mod names and modrinth links (NOT including custom content in `overrides`), run the `generate-modlist.sh` script by  running:
+To generate a mod list with mod names and modrinth links (NOT including custom content in `overrides`), run the `generate-modlist.sh` script by running:
 
 ```bash
 sh generate-modlist.sh
 ```
+
 > [!NOTE]
 > All generated files will be in the `generated` directory
 
 ## 📜 Mod List
 
-*(Coming soon – will include full mod names with Modrinth links)*
+_(Coming soon – will include full mod names with Modrinth links)_
 
 ## 📸 Screenshots
 
-*(Coming soon)*
+_(Coming soon)_
 
 ## Performance data
 
-*(Coming soon – will include how much fps it gets where)*
+_(Coming soon – will include how much fps it gets where)_
 
 ## 🌐 Resources
 
 - This modpack uses open-source mods, resource packs, datapacks, and shaders from [Modrinth](https://modrinth.com/), a community-driven platform for Minecraft modding.
 - Resource packs from [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/) were used.
 - The [Offline Skins](https://www.curseforge.com/minecraft/mc-mods/offlineskins) mod was used from Curseforge.
-- The Starlight logo was created using [Blockbench](https://www.blockbench.net/) with a minecraft text plugin. There is a video explaining how to do this [here]( https://www.youtube.com/watch?v=iGaufrACVj4).
+- The Starlight logo was created using [Blockbench](https://www.blockbench.net/) with a minecraft text plugin. There is a video explaining how to do this [here](https://www.youtube.com/watch?v=iGaufrACVj4).
 
 All mods are managed via [Packwiz](https://packwiz.infra.link/), ensuring safe, reproducible builds and easy updates.
 
