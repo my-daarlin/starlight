@@ -1,0 +1,13 @@
+name = "Starlight"
+author = "my-daarlin"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "dd6dbbc8317d3e8e0471e804a003116bbed3121d966efcfd411ca218b739d9a0"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.21"
