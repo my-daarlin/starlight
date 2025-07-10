@@ -76,7 +76,7 @@ if [[ -d "overrides" ]]; then
         mkdir -p "$(dirname "$dest_path")"
         cp -f "$filepath" "$dest_path"
     done
-    success "Merged overrides (mods & resourcepacks)."
+    success "Overrides fully merged into project structure."
 else
     log "No overrides found, skipping override merge."
 fi
