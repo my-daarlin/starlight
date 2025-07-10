@@ -8,45 +8,56 @@ TEMP_DIR=".tmp_packwiz_export"
 EXPORT_DIR="generated"
 EXPORT_FILE="$EXPORT_DIR/$PACK_NAME.mrpack"
 
-# === Helper: logging ===
+# === Logging ===
 log() {
-    echo -e "[\033[1;36mINFO\033[0m] $1"
+    echo " 📦 $1"
 }
 
 error() {
-    echo -e "[\033[1;31mERROR\033[0m] $1" >&2
+    echo " ❌ $1" >&2
     exit 1
 }
 
-# === Check directories ===
-if [[ ! -f "pack.toml" ]]; then
-    error "pack.toml not found! Must be run from root of the modpack."
+# === Check packwiz ===
+if ! command -v packwiz &>/dev/null; then
+    error "Packwiz is not installed or not in PATH."
 fi
 
-if [[ ! -d "overrides" ]]; then
-    error "overrides/ directory not found."
+# === Check for required files ===
+if [[ ! -f "pack.toml" ]]; then
+    error "pack.toml not found! Must be run from the root of the modpack."
 fi
 
 mkdir -p "$EXPORT_DIR"
 rm -rf "$TEMP_DIR"
 mkdir "$TEMP_DIR"
 
-log "Copying base files (excluding overrides) to temp directory..."
-rsync -av --progress ./ "$TEMP_DIR" \
-    --exclude "overrides" \
-    --exclude "$TEMP_DIR" \
-    --exclude "$EXPORT_DIR"
+log "Copying base files (excluding overrides)..."
+for entry in * .*; do
+    [[ "$entry" == "." || "$entry" == ".." ]] && continue
+    [[ "$entry" == "$TEMP_DIR" || "$entry" == "$EXPORT_DIR" || "$entry" == "overrides" ]] && continue
+    cp -a "$entry" "$TEMP_DIR/" 2>/dev/null || true
+done
 
-log "Merging overrides into temp directory (overrides take priority)..."
-rsync -av --progress overrides/ "$TEMP_DIR/" \
-    --delete --ignore-existing --recursive --update
+# === Merge overrides if they exist ===
+if [[ -d "overrides" ]]; then
+    log "Merging overrides into temp directory..."
+    find overrides -type f | while read -r filepath; do
+        rel_path="${filepath#overrides/}"
+        dest_path="$TEMP_DIR/$rel_path"
+        mkdir -p "$(dirname "$dest_path")"
+        cp -f "$filepath" "$dest_path"
+    done
+else
+    log "No overrides found, skipping override merge."
+fi
 
-log "Exporting mrpack from temp directory..."
+log "Exporting modpack with packwiz..."
 cd "$TEMP_DIR"
-packwiz mr export --no-overrides-dir --output "../$EXPORT_FILE"
+packwiz modrinth export -o "../$EXPORT_FILE" >/dev/null 2>&1 || error "Packwiz export failed"
 cd - >/dev/null
 
-log "Cleaning up temp directory..."
+log "Cleaning up temp files..."
 rm -rf "$TEMP_DIR"
 
-log "✅ Export complete: $EXPORT_FILE"
+echo " ✅ Export complete: $EXPORT_FILE"
