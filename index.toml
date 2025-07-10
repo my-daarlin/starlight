@@ -56,6 +56,11 @@ hash = "a059d2d23cd47fe2e698f06826a1053a39599f74fb1b739c622754630f90086c"
 metafile = true
 
 [[files]]
+file = "mods/clearviews.pw.toml"
+hash = "426209d2df3f2efdd325f8f4f66de71f737382374f9a79975cdfc64bc0338d79"
+metafile = true
+
+[[files]]
 file = "mods/clickthrough+.pw.toml"
 hash = "2cfaf0dcfad028db0e972f77946e71fd94376e8d70cba3d17d3abb484acf4ce8"
 metafile = true
@@ -1783,11 +1788,6 @@ hash = "91b9da36e8b43ce3055fc465753a5d616df8453ba55d659dc057617b2f0a37eb"
 [[files]]
 file = "overrides/resourcepacks/Rainbow XP bar.zip"
 hash = "2553288a0c05433c08889be525610649208438d4eff529fc69bfa6d28b3e2ffd"
-
-[[files]]
-file = "resourcepacks/clearview.pw.toml"
-hash = "b22cd9af128604e8c66e8537dba3789d66431e1a94167b98e79da713a02ad8df"
-metafile = true
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
