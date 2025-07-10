@@ -6,7 +6,23 @@ hash = "5fa5c0f30f8345e98bdafe9c62649287064c445b29fb25eae08b15c9648e5e01"
 
 [[files]]
 file = "README.md"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "8268bb5af295f9e7a7cf79720ff11ee239c28eaa55c4beade0625c70b20fbf5c"
+
+[[files]]
+file = "assets/icon.gif"
+hash = "423ac484f9b2bbc2cc357225cce1e55b6d20dd76d9f0ccd0f854e7e9d20fbe73"
+
+[[files]]
+file = "assets/starlight-pro.png"
+hash = "b2793ce64645b2a0c0febd0ef823444cfd98e1d986c5628e4ff90951e5343d89"
+
+[[files]]
+file = "assets/starlight.png"
+hash = "7cad1903e6d1a0ea7194f604a241adc2df419d56a4c7d832e60288f68d1d752b"
+
+[[files]]
+file = "generated/modlist.txt"
+hash = "9966e88786b83af4643de1409a0ca445d3e5a3086cb380ad553a522b34bac344"
 
 [[files]]
 file = "mods/\"limitless\"-banners.pw.toml"
@@ -314,6 +330,1470 @@ hash = "208235d8f8b5f92cba00db12e00db01953cd8a5a224d62be68fda2ec172984fa"
 metafile = true
 
 [[files]]
+file = "overrides/config/badoptimizations.txt"
+hash = "9f56bd826fea6a8c6d68db34b09218e9c66154b82854150f954ddf56ec80f439"
+
+[[files]]
+file = "overrides/config/c2me.toml"
+hash = "ff0ae25efac3b45fb9ef755308306a3941219a98e0d2ce1fc0063c1ed55c70c8"
+
+[[files]]
+file = "overrides/config/carpet/default_carpet.conf"
+hash = "a1841d4e9d82126db89b205ac363478a3e3c3d1017e721a1b13a85a421325380"
+
+[[files]]
+file = "overrides/config/clearview.json"
+hash = "e4b9792d25d45c3ab5db062a752f24c2dd8ef74a367bd0a2be38ab1cbfde1935"
+
+[[files]]
+file = "overrides/config/collective.json5"
+hash = "b6243b955bf123f86c947510d9f8f3a4b5f7b8fe3775d834f458d60a3223847f"
+
+[[files]]
+file = "overrides/config/compatdatapacks76/compatdatapacks76.json"
+hash = "f22dfe8e42545980294b64e52f75c180a54c8990ec5d6b29175556e31cb9b868"
+
+[[files]]
+file = "overrides/config/compatdatapacks76/ignore.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/config/continuity.json"
+hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
+
+[[files]]
+file = "overrides/config/cristellib/minecraftED.json5"
+hash = "8e01cc9b7e46f74fd60ce36d3459628b8198cb988051ae52f14cda36ef0fd869"
+
+[[files]]
+file = "overrides/config/cristellib/minecraftP.json5"
+hash = "8fe09b83f2fe6bf9d547e99b8d883aef42bf3d9e2e6f5bd43ec3fcd4c7f756da"
+
+[[files]]
+file = "overrides/config/customlan.toml"
+hash = "1a4f3ac02697e082fa8c9a07a1c51e86d3b703b7b84aa91e1a3241e0b7260095"
+
+[[files]]
+file = "overrides/config/dynamic_fps.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/dynamiclights.json"
+hash = "04865e6dc39689c0fe8276cc993bb172d17699a3484b4edfdaf001dd6c9c070a"
+
+[[files]]
+file = "overrides/config/enhanced_bes.properties"
+hash = "b6dde1d0cffd7070d9ccfaf4b3f0f1c813d1a039af4f605fbc26118b6da89cb8"
+
+[[files]]
+file = "overrides/config/entity_model_features.json"
+hash = "49c31f039ecaa30817ce0d89b98fa602dac4ad5b3972e7e2e0b5bfefe04615a8"
+
+[[files]]
+file = "overrides/config/entity_texture_features.json"
+hash = "0554c0e7816266477c65c18d2ada9fdddf1c6750787efd329056223ca4a073b2"
+
+[[files]]
+file = "overrides/config/entityculling.json"
+hash = "c87799c19ffe3303ce17c6c4e3538a47456e34ecf9830d578535cebf180a77fb"
+
+[[files]]
+file = "overrides/config/etf_warnings.json"
+hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
+
+[[files]]
+file = "overrides/config/expanded_bow_enchanting.json"
+hash = "256a425ed047368b0719dd8ea30428ee15515125e5ef5db3e2c20b71992a0b68"
+
+[[files]]
+file = "overrides/config/expanded_trident_enchanting.json"
+hash = "3d6ba6a3134c2eefc9dce5961a601a8164ff0327ec09e04b677074c373f25f83"
+
+[[files]]
+file = "overrides/config/fabric/indigo-renderer.properties"
+hash = "00cdd10b053de381fa3ff3e10dbab5b17968b2511d0d6a281193655ab4a59c73"
+
+[[files]]
+file = "overrides/config/fancymenu/assets/starlight-pro-logo.png"
+hash = "b2793ce64645b2a0c0febd0ef823444cfd98e1d986c5628e4ff90951e5343d89"
+
+[[files]]
+file = "overrides/config/fancymenu/assets/starlight.png"
+hash = "7cad1903e6d1a0ea7194f604a241adc2df419d56a4c7d832e60288f68d1d752b"
+
+[[files]]
+file = "overrides/config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "overrides/config/fancymenu/customizablemenus.txt"
+hash = "c23de18f6d2faa5bb302b1a1b1a9ae17de817fee4546bb38d7551983789c3cb5"
+
+[[files]]
+file = "overrides/config/fancymenu/customization/title_screen_vanilla.txt"
+hash = "26a8259bede5bb6ad8f515467a51d15b28e73f4b445bf94ab4bdc0e1d0167255"
+
+[[files]]
+file = "overrides/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "d74d036f359f25cc2a3d0acb995d7e45693b563802269f12c829b45b35550d5c"
+
+[[files]]
+file = "overrides/config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "overrides/config/fancymenu/options.txt"
+hash = "6486e2d472a752003c00d826162fb6f7dc29de2759a9f7f01726af479a241ab1"
+
+[[files]]
+file = "overrides/config/fancymenu/ui_themes/dark.json"
+hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+
+[[files]]
+file = "overrides/config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "overrides/config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "overrides/config/fastquit.toml"
+hash = "de22af584433dfdfb4a14b85091bfbd5c6be697a306499c2d7c75740658dbad4"
+
+[[files]]
+file = "overrides/config/ferritecore.mixin.properties"
+hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
+
+[[files]]
+file = "overrides/config/feytweaks.json"
+hash = "4d4cbc34be39d5c289d4d7eb1d743470bfd1b0286297fdc1887ff80c0f2a5fcc"
+
+[[files]]
+file = "overrides/config/forgeconfigapiport.toml"
+hash = "647ad92f7bdc5e0ccef37d6e7386b08f2a19715b77742202f2f9048fb14e0dec"
+
+[[files]]
+file = "overrides/config/freecam.json5"
+hash = "650669bad6c6eb77bfb1395dbe0fa366cd151434aa297719152d0dce3be7eeaf"
+
+[[files]]
+file = "overrides/config/immediatelyfast.json"
+hash = "722b612b9b0688a7d5881c5c12182df882bb089f07caf098eb6654d5e6a95b15"
+
+[[files]]
+file = "overrides/config/infinitetrading.json5"
+hash = "d9e247d4b521ec10f5c9719e67afceb7de7a70eeaa1ebdb4674384c31c75a711"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/1 - Town/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/192.168.250.158&25565/lockSlots.txt"
+hash = "9f14025af0065b30e47e23ebb3b491d39ae8ed17d33739e5ff3827ffb3634953"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/192.168.250.158&25565/prev-villager-trading-config-v2.json"
+hash = "124bdf33c80283d5327d5d47bb58d39e81d0b80e0910e5c66e5cf55abc416a0b"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/192.168.250.158&25565/villager-trading-config-v2.json"
+hash = "124bdf33c80283d5327d5d47bb58d39e81d0b80e0910e5c66e5cf55abc416a0b"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/192.168.250.167&25565/prev-villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/192.168.250.167&25565/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/2 - Dreamland/lockSlots.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/2 - Dreamland/prev-villager-trading-config-v2.json"
+hash = "e60dbb6079cc2d61c721e758d68a4507dccf20d724ae00f6d53497ae3cccba20"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/2 - Dreamland/profiles-V2.txt"
+hash = "e42d18306f8cbdc2c442dbe7e8783980b471c5489a401de10f8a296ec6ebb41a"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/2 - Dreamland/villager-trading-config-v2.json"
+hash = "e60dbb6079cc2d61c721e758d68a4507dccf20d724ae00f6d53497ae3cccba20"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/76k Simple Dark Oak Farm/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/CartMIS V3 + Hybrid Storage/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/DOTF-SC-V2 By Mystery_Xy/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/Dreamland Creative copy/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/Ecolyo/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/Frunos Mangrove Farm v1.1/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/Kay's Based AF Storage System/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/Krebs Main Storage System/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/Mangrove tree farm/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/Mountainisland/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/Sandbox/profiles-V2.txt"
+hash = "4f252a7482956dd2475be9a8845b2e359925c0175ef819c2c9b2f056c2a004ca"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/Sandbox/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/Sorter/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/Very Compact Iron Farm by Emdy/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/Villager Breeder/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/cuans 泥土机3.0/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/integrationHints/player-defined.json"
+hash = "ecd035429ce61ae6afc116dd923eb056f450fcc70ed257ede7ea970256b81ae8"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "d62c5b709fd3f67e959285417c005510e1cff75fd684cfe280f49759b06fa8a8"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/localhost&25565/lockSlots.txt"
+hash = "9f14025af0065b30e47e23ebb3b491d39ae8ed17d33739e5ff3827ffb3634953"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/localhost&25565/prev-villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/localhost&25565/villager-trading-config-v2.json"
+hash = "124bdf33c80283d5327d5d47bb58d39e81d0b80e0910e5c66e5cf55abc416a0b"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/localhost/lockSlots.txt"
+hash = "9f14025af0065b30e47e23ebb3b491d39ae8ed17d33739e5ff3827ffb3634953"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/localhost/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/mc.hypixel.net/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "overrides/config/iris.properties"
+hash = "87c5eb59b6f099464ec7c91e8d10a886117f9d36bbd2f8d81b92abbb8c80d217"
+
+[[files]]
+file = "overrides/config/jade/hide-blocks.json"
+hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
+
+[[files]]
+file = "overrides/config/jade/hide-entities.json"
+hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
+
+[[files]]
+file = "overrides/config/jade/jade.json"
+hash = "8e845ff995181ab161c8efbaa86bd4f76522a093c2c0552f0eda8f09f788542c"
+
+[[files]]
+file = "overrides/config/jade/plugins.json"
+hash = "4cde153409c59ec5b512cdeb97e9c251f8f2cfdc026c7bba043f928d44a3ea49"
+
+[[files]]
+file = "overrides/config/jade/profiles/1/jade.json"
+hash = "80e956fcf111d66a06289bf46194c55a7c5a5f32ac856259a08f78947bdaa1dd"
+
+[[files]]
+file = "overrides/config/jade/profiles/2/jade.json"
+hash = "80e956fcf111d66a06289bf46194c55a7c5a5f32ac856259a08f78947bdaa1dd"
+
+[[files]]
+file = "overrides/config/jade/profiles/3/jade.json"
+hash = "80e956fcf111d66a06289bf46194c55a7c5a5f32ac856259a08f78947bdaa1dd"
+
+[[files]]
+file = "overrides/config/jade/sort-order.json"
+hash = "c302f4304f9e843e2371a5ab849424ebdaed21f989ceb355f9e8f8421eec25d8"
+
+[[files]]
+file = "overrides/config/jade/usernamecache.json"
+hash = "bdbc4d50d65f68a2d01d2ab9f7ec1ee64c1f8a4d891f23f894086f9238e035f3"
+
+[[files]]
+file = "overrides/config/kiwi-client.yaml"
+hash = "ca1dafcb270b3efa2ec744142fb32bbbdcabbcbfe92f651a67aba00b31930206"
+
+[[files]]
+file = "overrides/config/kiwi-common.yaml"
+hash = "1488107dd37c8f05131e65c5ad9adda7b674b08a8c0d639752d53b7926db2282"
+
+[[files]]
+file = "overrides/config/konkrete/locals/de_de.local"
+hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
+
+[[files]]
+file = "overrides/config/konkrete/locals/en_us.local"
+hash = "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a"
+
+[[files]]
+file = "overrides/config/konkrete/locals/pl_pl.local"
+hash = "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8"
+
+[[files]]
+file = "overrides/config/konkrete/locals/pt_br.local"
+hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
+
+[[files]]
+file = "overrides/config/lighty/base.config"
+hash = "31008fe936cc444862fe1b243c6ecb6890a323649360ea98f9a25c8484284fe8"
+
+[[files]]
+file = "overrides/config/litematica.json"
+hash = "42f6fb738522b44d55c70216c815072554f095aadfd072ad965998f7dd2a5cb0"
+
+[[files]]
+file = "overrides/config/litematica/area_selections_per_world/2___dreamland/area_selections/creeper_farm.json"
+hash = "8c3c9d7e864a16a42637b1e91a9b1be9df9cd66a9478cdf1b5715c98c00351a1"
+
+[[files]]
+file = "overrides/config/litematica/litematica_192.168.250.167_25565.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "overrides/config/litematica/litematica_192.168.250.167_25565_dim_minecraft_overworld.json"
+hash = "60e030b6b52f07a35161d8141f0d9bee457d2ce810b1c7a3d6dbe2f752447e86"
+
+[[files]]
+file = "overrides/config/litematica/litematica_2___dreamland.json"
+hash = "63205739d58ad3e38e50b6c1f8b1f51e03843c75d36aec29a1378ccf66e30264"
+
+[[files]]
+file = "overrides/config/litematica/litematica_2___dreamland_dim_minecraft_overworld.json"
+hash = "59b9f013cdca93b8532e0464f5c81d3e0914b5c628acd411c245f1ebea33ead4"
+
+[[files]]
+file = "overrides/config/litematica/litematica_2___dreamland_dim_minecraft_the_end.json"
+hash = "ce262354f2852958c07867ccf32a1e587e70978800385e56103ebf4808c8c9ef"
+
+[[files]]
+file = "overrides/config/litematica/litematica_2___dreamland_dim_minecraft_the_nether.json"
+hash = "5c0263f12d7fd4f20527f7159903352f2a7a749cb21e1a18a0a5e8f197f97367"
+
+[[files]]
+file = "overrides/config/litematica/litematica_76k_simple_dark_oak_farm.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "overrides/config/litematica/litematica_76k_simple_dark_oak_farm_dim_minecraft_overworld.json"
+hash = "60e030b6b52f07a35161d8141f0d9bee457d2ce810b1c7a3d6dbe2f752447e86"
+
+[[files]]
+file = "overrides/config/litematica/litematica_cartmis_v3___hybrid_storage.json"
+hash = "d5a78ff80d793e442d71268a5908350898a95435405d70c3e51afb863c545b05"
+
+[[files]]
+file = "overrides/config/litematica/litematica_cartmis_v3___hybrid_storage_dim_minecraft_overworld.json"
+hash = "60e030b6b52f07a35161d8141f0d9bee457d2ce810b1c7a3d6dbe2f752447e86"
+
+[[files]]
+file = "overrides/config/litematica/litematica_cartmis_v3___hybrid_storage_dim_minecraft_the_nether.json"
+hash = "60e030b6b52f07a35161d8141f0d9bee457d2ce810b1c7a3d6dbe2f752447e86"
+
+[[files]]
+file = "overrides/config/litematica/litematica_cuans____3_0.json"
+hash = "356033bddc54618003191bcad25e59a536861db1fb40e93fd5603d49f030145b"
+
+[[files]]
+file = "overrides/config/litematica/litematica_cuans____3_0_dim_minecraft_overworld.json"
+hash = "739b54ef1e296d552b1d66abec087330422474dda66e5cdd06d73fad37d27540"
+
+[[files]]
+file = "overrides/config/litematica/litematica_dotf_sc_v2_by_mystery_xy.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "overrides/config/litematica/litematica_dotf_sc_v2_by_mystery_xy_dim_minecraft_overworld.json"
+hash = "60e030b6b52f07a35161d8141f0d9bee457d2ce810b1c7a3d6dbe2f752447e86"
+
+[[files]]
+file = "overrides/config/litematica/litematica_dreamland_creative_copy.json"
+hash = "077272d7f7f71a0ed181aa5242de534845009d06b9273f82c201e4c8dded48cf"
+
+[[files]]
+file = "overrides/config/litematica/litematica_dreamland_creative_copy_dim_minecraft_overworld.json"
+hash = "fcbcecd575207b2d52d132d7c2f60f0ddbd3aa4f75ace2b85e29889e7fc297de"
+
+[[files]]
+file = "overrides/config/litematica/litematica_ecolyo.json"
+hash = "63205739d58ad3e38e50b6c1f8b1f51e03843c75d36aec29a1378ccf66e30264"
+
+[[files]]
+file = "overrides/config/litematica/litematica_ecolyo_dim_minecraft_overworld.json"
+hash = "2467a527e477dbb99b0645e2210d772f30a9ad7988ed25af797ba93dbb22d170"
+
+[[files]]
+file = "overrides/config/litematica/litematica_frunos_mangrove_farm_v1_1.json"
+hash = "c5084e511824ed9f2f38764243b970bd4c7d1047c5fa450b4f4e1c6a2cf9622e"
+
+[[files]]
+file = "overrides/config/litematica/litematica_frunos_mangrove_farm_v1_1_dim_minecraft_overworld.json"
+hash = "bc0700a0671bbd08986895cc2b3a5ba1ff1853455d5eee60174707708351f203"
+
+[[files]]
+file = "overrides/config/litematica/litematica_kay_s_based_af_storage_system.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "overrides/config/litematica/litematica_kay_s_based_af_storage_system_dim_minecraft_overworld.json"
+hash = "60e030b6b52f07a35161d8141f0d9bee457d2ce810b1c7a3d6dbe2f752447e86"
+
+[[files]]
+file = "overrides/config/litematica/litematica_kay_s_based_af_storage_system_dim_minecraft_the_nether.json"
+hash = "60e030b6b52f07a35161d8141f0d9bee457d2ce810b1c7a3d6dbe2f752447e86"
+
+[[files]]
+file = "overrides/config/litematica/litematica_krebs_main_storage_system.json"
+hash = "d5a78ff80d793e442d71268a5908350898a95435405d70c3e51afb863c545b05"
+
+[[files]]
+file = "overrides/config/litematica/litematica_krebs_main_storage_system_dim_minecraft_overworld.json"
+hash = "60e030b6b52f07a35161d8141f0d9bee457d2ce810b1c7a3d6dbe2f752447e86"
+
+[[files]]
+file = "overrides/config/litematica/litematica_mangrove_tree_farm.json"
+hash = "c5084e511824ed9f2f38764243b970bd4c7d1047c5fa450b4f4e1c6a2cf9622e"
+
+[[files]]
+file = "overrides/config/litematica/litematica_mangrove_tree_farm_dim_minecraft_overworld.json"
+hash = "30b6e0dda1d6a988df195d5ea957ae4efec071d74ed4b3c8965c3d8831a36228"
+
+[[files]]
+file = "overrides/config/litematica/litematica_mountainisland.json"
+hash = "6561abd5035e158a2acb6b9418c0c8da7ae7120cb35268fcf9fd37bb7528c2fe"
+
+[[files]]
+file = "overrides/config/litematica/litematica_mountainisland_dim_minecraft_overworld.json"
+hash = "05a9d81c14eecd64c1aa20f269b17a25f1926ce6007cb7f49101e3ef038d7134"
+
+[[files]]
+file = "overrides/config/litematica/litematica_sandbox.json"
+hash = "356033bddc54618003191bcad25e59a536861db1fb40e93fd5603d49f030145b"
+
+[[files]]
+file = "overrides/config/litematica/litematica_sandbox_dim_minecraft_overworld.json"
+hash = "dee8e5e010ca08438a40117101040e30a468e41dfcb742a39f698b2c9438e7cf"
+
+[[files]]
+file = "overrides/config/litematica/litematica_sandbox_dim_minecraft_the_nether.json"
+hash = "2d4322ae6040fb27101d4e27ff3e78ed707167aa819a3145ce022447110c1427"
+
+[[files]]
+file = "overrides/config/litematica/litematica_sorter.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "overrides/config/litematica/litematica_sorter_dim_minecraft_overworld.json"
+hash = "33f74a50510df247a8fd90c274a9be9e748d5312bac7c6fbd53fd125d9ea84f0"
+
+[[files]]
+file = "overrides/config/litematica/litematica_sorter_dim_minecraft_the_nether.json"
+hash = "122e5d0903d70789afce97a856496b2f8b15c9e33eefbf10ff25ac146e3c5779"
+
+[[files]]
+file = "overrides/config/litematica/litematica_very_compact_iron_farm_by_emdy.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "overrides/config/litematica/litematica_very_compact_iron_farm_by_emdy_dim_minecraft_overworld.json"
+hash = "e1dcd76d0f1b860c6900e926a103d241d5b00d56406e11841aea3773f80ea001"
+
+[[files]]
+file = "overrides/config/litematica/litematica_villager_breeder.json"
+hash = "1c672634f37e0499a8b42d0165bfee5568c5052bdaea298f53d209126c48384c"
+
+[[files]]
+file = "overrides/config/litematica/litematica_villager_breeder_dim_minecraft_overworld.json"
+hash = "232944e286ea56b727bcd9079fe01688d5afc48204ab1edbdab1ad67fe0c3359"
+
+[[files]]
+file = "overrides/config/litematica/material_list_2025-05-11_10.59.57.txt"
+hash = "6309ac489bc1575699ac811e62ee97e86a29b92e29893dccca5f3f11d2bce66c"
+
+[[files]]
+file = "overrides/config/litematica/material_list_2025-05-11_10.59.57_1.txt"
+hash = "6309ac489bc1575699ac811e62ee97e86a29b92e29893dccca5f3f11d2bce66c"
+
+[[files]]
+file = "overrides/config/litematica/material_list_2025-05-25_23.56.18.txt"
+hash = "a620c38241f1c4f3565471aeb798203a4ef726639a2ba1edcadd145e743dfd24"
+
+[[files]]
+file = "overrides/config/lithium.properties"
+hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
+
+[[files]]
+file = "overrides/config/lithostitched.json"
+hash = "dbbbaf1653ea24277ad44c214ce3d1fa1936c66f1730fb33e34e294fe8869ed4"
+
+[[files]]
+file = "overrides/config/malilib.json"
+hash = "f02e7f6104310e80b34d5302bfc3b3ca39a24e94e88fa6a727c1380f5875998f"
+
+[[files]]
+file = "overrides/config/mcpitanlib/blacklist.json"
+hash = "961bcaf7f707818e1d4652ca0947953271d40e5cef01dc07f7208ec043d68a37"
+
+[[files]]
+file = "overrides/config/midnightlib.json"
+hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
+
+[[files]]
+file = "overrides/config/minieffects-client.yaml"
+hash = "c747cc3ba78926eeab66e88c4a5b0d974cfe436d5a8c297c54157348c38d3d15"
+
+[[files]]
+file = "overrides/config/minihud.json"
+hash = "2b3c12fdcf28f9ef05d855def67e1e84c66cfb123f80dd0f3b9aedf550ce88bf"
+
+[[files]]
+file = "overrides/config/minihud/2___dreamland.json"
+hash = "66083d94e33672e047e701ee3633e0ecd4955550f2a92d748cbe8c0b4f8d1e4a"
+
+[[files]]
+file = "overrides/config/minihud/2___dreamland_dim_minecraft_overworld.json"
+hash = "f5c3eb0ab292089c34215294732b1486330b0e51c59fbf635379cb43f2c2503a"
+
+[[files]]
+file = "overrides/config/minihud/2___dreamland_dim_minecraft_the_end.json"
+hash = "28ce4be75d44c0b123e1c6175eb72ebdd17c32097cc34e2bb1f173362e84040e"
+
+[[files]]
+file = "overrides/config/minihud/2___dreamland_dim_minecraft_the_nether.json"
+hash = "00a4c1e017eb408d3df72c42cc41d9ca0882b924e6cb9875644bb742e3dfad2b"
+
+[[files]]
+file = "overrides/config/minihud/76k_simple_dark_oak_farm.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "overrides/config/minihud/76k_simple_dark_oak_farm_dim_minecraft_overworld.json"
+hash = "14d645dd82bcf84ca02dbd95a70c5af2660138f963335ac6c78bb95f2ac25ffd"
+
+[[files]]
+file = "overrides/config/minihud/cartmis_v3___hybrid_storage.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "overrides/config/minihud/cartmis_v3___hybrid_storage_dim_minecraft_overworld.json"
+hash = "5ea41c1d9fbd9579cf03796d1dfe3ac28b0b38931e286679e6fcbab4252309e2"
+
+[[files]]
+file = "overrides/config/minihud/cuans____3_0.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "overrides/config/minihud/cuans____3_0_dim_minecraft_overworld.json"
+hash = "5a49ecd3aae15d33a0d4c4f1f4007e70cadce0fa211c32f82741947eef3b5ad1"
+
+[[files]]
+file = "overrides/config/minihud/dotf_sc_v2_by_mystery_xy.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "overrides/config/minihud/dotf_sc_v2_by_mystery_xy_dim_minecraft_overworld.json"
+hash = "614b786f65025755c835f9c2bbbfa2b30b8facb3b84c036f2548f1cf38b957fc"
+
+[[files]]
+file = "overrides/config/minihud/dreamland_creative_copy.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "overrides/config/minihud/dreamland_creative_copy_dim_minecraft_overworld.json"
+hash = "28ce4be75d44c0b123e1c6175eb72ebdd17c32097cc34e2bb1f173362e84040e"
+
+[[files]]
+file = "overrides/config/minihud/ecolyo.json"
+hash = "66083d94e33672e047e701ee3633e0ecd4955550f2a92d748cbe8c0b4f8d1e4a"
+
+[[files]]
+file = "overrides/config/minihud/ecolyo_dim_minecraft_overworld.json"
+hash = "51ee383f017231c50dfde77b01ca516f7337f133fe85d7af9154715358adf525"
+
+[[files]]
+file = "overrides/config/minihud/frunos_mangrove_farm_v1_1.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "overrides/config/minihud/frunos_mangrove_farm_v1_1_dim_minecraft_overworld.json"
+hash = "742b35d0d3242f0c7e6c67f2477680b7300d98b2eeac19f41d4d3a311e66ef11"
+
+[[files]]
+file = "overrides/config/minihud/kay_s_based_af_storage_system.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "overrides/config/minihud/kay_s_based_af_storage_system_dim_minecraft_overworld.json"
+hash = "7e7d6cf6c3c7551b1746bf84164c722f4367f1cac4230e36eedb348af534dfde"
+
+[[files]]
+file = "overrides/config/minihud/localhost_25565.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "overrides/config/minihud/localhost_25565_dim_minecraft_overworld.json"
+hash = "5ff2e2baad8bdf20253f08fd4233b59df5c177bc8a2e3a550592eb3470f04464"
+
+[[files]]
+file = "overrides/config/minihud/localhost_25565_dim_minecraft_the_end.json"
+hash = "8c473ea092fd23983ad10a7112faf94b8031aa156c88c29229543f8e88beb4e3"
+
+[[files]]
+file = "overrides/config/minihud/localhost_25565_dim_minecraft_the_nether.json"
+hash = "a2803a48cded0587b0cc7dcc9690e077213583374f43b40be9ef353a3a20cbe3"
+
+[[files]]
+file = "overrides/config/minihud/mangrove_tree_farm.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "overrides/config/minihud/mangrove_tree_farm_dim_minecraft_overworld.json"
+hash = "f76b5db2c83c3992ab0f53d535b41f1b778ed5d8609a583a4effdb235fc389d3"
+
+[[files]]
+file = "overrides/config/minihud/mountainisland.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "overrides/config/minihud/mountainisland_dim_minecraft_overworld.json"
+hash = "80648e12176d7c4bd6db99bcd63c8b1942f451cf0fd10cf848bdc1014932ed2d"
+
+[[files]]
+file = "overrides/config/minihud/sandbox.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "overrides/config/minihud/sandbox_dim_minecraft_overworld.json"
+hash = "b5d0afae70fb9864b6ebb21f8d408d3f5ca51e1958228dc8a3fc6dcbaa2f7eea"
+
+[[files]]
+file = "overrides/config/minihud/sandbox_dim_minecraft_the_nether.json"
+hash = "b5d0afae70fb9864b6ebb21f8d408d3f5ca51e1958228dc8a3fc6dcbaa2f7eea"
+
+[[files]]
+file = "overrides/config/minihud/sorter.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "overrides/config/minihud/sorter_dim_minecraft_overworld.json"
+hash = "85d4b5044378a5044208232c6a84dc82fce163f467bf427e622e6f27d3d5d9b8"
+
+[[files]]
+file = "overrides/config/minihud/very_compact_iron_farm_by_emdy.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "overrides/config/minihud/very_compact_iron_farm_by_emdy_dim_minecraft_overworld.json"
+hash = "109e89aaaa01a490bdaf944d0be8cbb6459f824365465b10cb1e35c95b361b34"
+
+[[files]]
+file = "overrides/config/minihud/villager_breeder.json"
+hash = "66083d94e33672e047e701ee3633e0ecd4955550f2a92d748cbe8c0b4f8d1e4a"
+
+[[files]]
+file = "overrides/config/minihud/villager_breeder_dim_minecraft_overworld.json"
+hash = "de4b3e883e0e28894208254823d76453da2635a0531e3c7c79c88c868942942c"
+
+[[files]]
+file = "overrides/config/modernfix-mixins.properties"
+hash = "114c97544b20ff103ab2912bd234134cb1163249322f6e932eb3b41546254c1b"
+
+[[files]]
+file = "overrides/config/modmenu.json"
+hash = "16d20c40cc6c114faff5493b561873fe160a65047720bc19fb3a3dd64aa67f3b"
+
+[[files]]
+file = "overrides/config/moonlight-client.json"
+hash = "4f661a3ceeff589d5489ae70ce0729b018c7d324bacf08293c614e32401bbbea"
+
+[[files]]
+file = "overrides/config/moonlight-common.json"
+hash = "d5b0086101de9016d436e8236e3d48c8ca95e3e87855ca80a1d56178bfba000d"
+
+[[files]]
+file = "overrides/config/moreculling.toml"
+hash = "cf2c05d78f813bd0e70b8a1899d974ffc2459422392f3fd344c5ce1039665635"
+
+[[files]]
+file = "overrides/config/nerb.yaml"
+hash = "dceda831a1a2585df3fb5f3baae348eb43a7179ced0609a8a47869dfb0243d71"
+
+[[files]]
+file = "overrides/config/offlineskins.json"
+hash = "b84921e870e82005697911c5de6ca299ce37522b93aa59328b2312573d1f46d1"
+
+[[files]]
+file = "overrides/config/particle_core_config.toml"
+hash = "b241a76a0aa325bbbf79c634afa28a2faab3a154323ffc78e5a21fe0831cf0c4"
+
+[[files]]
+file = "overrides/config/particle_core_disabled_optimizations.json"
+hash = "2bcb7aea228925ebab95b854ac359bc26993af0a6f4b49b33e6cb734d284c35b"
+
+[[files]]
+file = "overrides/config/roughlyenoughitems/collapsible.json5"
+hash = "a59667baa54738c1b294393a9b3652bcf7d392cdb8cba1c08a8006885b18e919"
+
+[[files]]
+file = "overrides/config/roughlyenoughitems/config.json5"
+hash = "3b54b6a6bf4eb8c71b001a98d9e5f4cb6abbe6461a87b7662a20074dcba04b55"
+
+[[files]]
+file = "overrides/config/roughlyenoughitems/favorites.json5"
+hash = "d2849a0378daed51fa026d2dc911899a0649d6de405d0eb0bfbf42290c2912c1"
+
+[[files]]
+file = "overrides/config/roughlyenoughitems/hints.json"
+hash = "675af5d6271bfc458a23a1f8e0ecbb583a7d797aec9544e132b16cc3653bfec1"
+
+[[files]]
+file = "overrides/config/roughlyenoughitems/pinyin.properties"
+hash = "83ac37ccbce6dfea0c7d033cdf742929210b3d130f687224dbc047ec2f361bed"
+
+[[files]]
+file = "overrides/config/roughlyenoughitems/pinyin_double.properties"
+hash = "c397574ab67d7371c65d24a61704f3dc9ae933b0ab16f1b99716e0a9fff02afd"
+
+[[files]]
+file = "overrides/config/rrls.toml"
+hash = "0e4a0d773bc1c38198a52dbc8745f2afabb607e55660cc56c3d4943995c1dab6"
+
+[[files]]
+file = "overrides/config/shulkerboxtooltip.json5"
+hash = "d799fe403b68b63a28558c660ce31d35c1e98dcc7c40a2513ca1328bc9c095bb"
+
+[[files]]
+file = "overrides/config/sodium-extra-options.json"
+hash = "14d4b56c0851fb3d1792ac132c50544d9e2d42ee382e4dfe865ad81dd2117524"
+
+[[files]]
+file = "overrides/config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "overrides/config/sodium-fingerprint.json"
+hash = "451cef3e8c35765a772747fe947742452412560634d769ee314757ebb4cdea05"
+
+[[files]]
+file = "overrides/config/sodium-mixins.properties"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+
+[[files]]
+file = "overrides/config/sodium-options.json"
+hash = "f1c479037f9ba6ce2012b42fdf7cbb61c5a9ef51094de6e987c5a4db1e0aee88"
+
+[[files]]
+file = "overrides/config/threadtweak.json"
+hash = "1361b271e26744966b67253b87a81c67e737a91ea893533e51171dcd3e804a71"
+
+[[files]]
+file = "overrides/config/timm/TIMM.config"
+hash = "a3de1d47029fe9170a66893f89db5706bf7a8baef359b6a49594b6f791e259b5"
+
+[[files]]
+file = "overrides/config/timm/biome_playlists.json"
+hash = "35ce68db7fa155dd8d7c01ff7d0bbd0e85150c82dda83f222810c3d1a7675173"
+
+[[files]]
+file = "overrides/config/vmp.properties"
+hash = "dca9bbeb5ba242d0ba9daddf0d006ec69938b145bfdb4cfda84fc6de4ebcd91c"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/.unpack_finished"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/af/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/an/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/ar/strings.json"
+hash = "29f9066cad68d934ba7b9740b12fa39b1cfb7bd0de12daee71b3edd6bd3a52be"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/ast/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/az/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/ba/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/be/strings.json"
+hash = "f02d23b0625268b27cad869b781b7cc3a1ecb127ac2f05e6f10dede979f4e281"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/bg/strings.json"
+hash = "55a2e9381b20b6d8acf4730804c9f4f3e26270bf9d2bcdb35c5d6cd241c87163"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/bn/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/br-FR/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/brb/strings.json"
+hash = "f4831bb47d275614f2df358e3c30ebd078d300a7487d1b530b1e132a0020b052"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/bs/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/ca/strings.json"
+hash = "6864f83a4a35f39b5d8b4559fc911236815f6eadf80aefae58e8ac626e171129"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/ckb/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/cs/strings.json"
+hash = "dba99bc72e47f347bbe240dc462bad2cd8ab6587a54e5a64b6ce847f66df0624"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/csb/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/cv/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/cy/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/da/strings.json"
+hash = "d1730782efe07c20b986d15eafac3febceac7cf2a99ae351400ff2c191ac79c0"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/de-AT/strings.json"
+hash = "4e40ebadd86616eaef661d5ad236d51a647a730fd488586447a201264f16ec56"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/de-CH/strings.json"
+hash = "d48fc5c8242f9b4d9375697c44ef35d07dc3efae6adc6b51e1a46ef023f962ca"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/de/strings.json"
+hash = "4e40ebadd86616eaef661d5ad236d51a647a730fd488586447a201264f16ec56"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/dsb-DE/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/el/strings.json"
+hash = "2fb424866a5e5fb34b3bf78d764ab8a728facc745fac0a423e9ea1c22886e550"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/en-AU/strings.json"
+hash = "b2d61b570d18c99d46188ccb6720e81d730b0f45611198275bd1ebe0eff1b68b"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/en-CA/strings.json"
+hash = "53010fa94d238a2ec02167e845e7cda679dc7454841e1abc26fda9717fd77eff"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/en-GB/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/en-NZ/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/en-PT/strings.json"
+hash = "817dda2b6e3f67ef18f2a5b7cbcbe55765dc3dc29d2b75489315af51386dda2b"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/en-UD/strings.json"
+hash = "c5de119e2db20447702906c6a3e7e20750840a63d04a7b48674cfa1d4dbd5094"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/enp/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/enws/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/eo/strings.json"
+hash = "5386905f26b174368e7c4bde89dc3deeb74e88e9428d071e3536fe5debce8367"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/es-AR/strings.json"
+hash = "bf962df1cfc012a19cf30d781ef51a60cdb4aaddd74e5c761905c42c110a11cc"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/es-CL/strings.json"
+hash = "c88cc7e91d2a6b314f7376554f089ac137d66916561d1c17912e5ed9cbff455c"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/es-CO/strings.json"
+hash = "47b37e6e95daf1da0d5076f85819952e66cd1afebff26b9276a4d1d3ccf94b41"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/es-EC/strings.json"
+hash = "47b37e6e95daf1da0d5076f85819952e66cd1afebff26b9276a4d1d3ccf94b41"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/es-ES/strings.json"
+hash = "47b37e6e95daf1da0d5076f85819952e66cd1afebff26b9276a4d1d3ccf94b41"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/es-MX/strings.json"
+hash = "47b37e6e95daf1da0d5076f85819952e66cd1afebff26b9276a4d1d3ccf94b41"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/es-UY/strings.json"
+hash = "47b37e6e95daf1da0d5076f85819952e66cd1afebff26b9276a4d1d3ccf94b41"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/es-VE/strings.json"
+hash = "ea4f0b067e49b400afd92896d2bc1d0e40714d3c0a4570ffc7b03a3a6af9c925"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/et/strings.json"
+hash = "4a6abfa083c16d79b3a35ade4ae32989ff0f429d11cad85caba0aa6519a90c76"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/eu/strings.json"
+hash = "5f114280e675622cff68ddbec13f70b02663a6d852817e723b2180e1bde3d3d9"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/fa/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/fi/strings.json"
+hash = "048c25c056481c5d019ce0a5477f4a347d8fa7f4caaf3581ccbcd9d11928466b"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/fil/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/fo/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/fr-CA/strings.json"
+hash = "4bd774707e676b0c345b1d7a4b197bd22827389db1f591a8b1e22fa424094901"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/fr/strings.json"
+hash = "4ba72682581791c2f5ee40a91085c738c7697a0561214710cdaf8e122b182314"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/fra-DE/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/fur-IT/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/fy-NL/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/ga-IE/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/gd/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/gl/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/got/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/gv/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/haw/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/he/strings.json"
+hash = "e54027adbe796e9e0ec188735d3c7a963eb529d8029d4242f1970eafed79ca71"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/hi/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/hr/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/hsb-DE/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/hu/strings.json"
+hash = "6edfb7c4be39c6f9528f0bc1b970c349423057db773449baa233ab1bb3f41159"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/hy-AM/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/id/strings.json"
+hash = "b9f8d18a33d4790ff9e57e455f0c2413441bc2c475fd502f66f095cfc3e9a254"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/ido/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/ig/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/is/strings.json"
+hash = "57cfc41f9f82b595a9a4cf77369a6503d3c354f0bfe8cb58e66382fa9836c6a2"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/it/strings.json"
+hash = "a21fe72d203959554833232910cc1e9e677fdd4b8eebba7d4d70cf5a09471ce5"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/ja/strings.json"
+hash = "4d24e79624d56512d2b4aea4a19360b864c41050c4d30ce2ec764f5596f83fca"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/jbo/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/ka/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/kab/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/kk/strings.json"
+hash = "485b85b7cce118da244f868cc6b64a5abcc6949b631af2584b5b10485c3e9aba"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/kn/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/ko/strings.json"
+hash = "0c685e4ab01f66940095f1ec801fab9f5d9ab3d37c7c065e37ebc8d6c4b6c08f"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/ksh/strings.json"
+hash = "4e40ebadd86616eaef661d5ad236d51a647a730fd488586447a201264f16ec56"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/kw/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/la-LA/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/lb/strings.json"
+hash = "c13f2e57ec52d87e65580202e32abd12b7880650c38585c0ec2cd484d3767a8a"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/li/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/lo/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/lol/strings.json"
+hash = "ac04004a71075464b6fd0d7f697c5fd4f37d88139cb6a4195a503ddb2cc69b3b"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/lt/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/lv/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/me/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/mi/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/mk/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/mn/strings.json"
+hash = "7fecfa7b0c24f535bbb0ef2d25edd1cbf3e0eef6c69bb08d75da5e9385095bda"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/moh/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/ms/strings.json"
+hash = "977555440bfb7a00c2ce73a5ad860112639b49942de2c681fe8c123063f3aca2"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/mt/strings.json"
+hash = "f05eb388f7590866da08167a119fd11ed7cbda9449ab6f33ad14adf2f80476dc"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/nds/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/ne-NP/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/nl-BE/strings.json"
+hash = "b5171c0706aa2e1870659517473218f49acb604df03273315bf81a164ef47a57"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/nl/strings.json"
+hash = "f4831bb47d275614f2df358e3c30ebd078d300a7487d1b530b1e132a0020b052"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/nn-NO/strings.json"
+hash = "e7ac3f2d3631fe0abed4e5b8de8fd3e225204d0d89f1a655ed7ac2f6e02c925f"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/no/strings.json"
+hash = "e7ac3f2d3631fe0abed4e5b8de8fd3e225204d0d89f1a655ed7ac2f6e02c925f"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/nuk/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/oc/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/oj/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/pa-IN/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/pl/strings.json"
+hash = "ed37e1831b93674c506e1ceb10682c78d8f7e51c846eb015a05b6c2a345c89d4"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/pt-BR/strings.json"
+hash = "ad0133bf41f925ca83edc13c78192d88d81cbbbbcc52972a416c68435b9e1a4e"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/pt-PT/strings.json"
+hash = "e7faa0729f568e6540ec75c048d5ccae8e23e0ffaf789f9b389b4e7acaf481fd"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/qya-AA/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/ro/strings.json"
+hash = "8e7861e62065963842c0ce22dd1e4baf036c548e6ae4aad540d720412fdc1910"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/ru/strings.json"
+hash = "a1ca1732712dc68a9f6697747b1b566994f7383923c4ca1cd3fcacec198fca82"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/ry-UA/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/sah/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/se/strings.json"
+hash = "ccbfc481e804dfb61768a8ea30f4c857124b1c6fbfc32e254266e9ffa1d9a6cc"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/sk/strings.json"
+hash = "ee3aa9555be39acd6ae8742d190edd0653e2fa64110a8ac4718898d02921fae3"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/sl/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/so/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/sq/strings.json"
+hash = "488edc59356647858f3134355efed66b4568bb3f68cbe55c8fdccc6e62493476"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/sr-CS/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/sr-Cyrl-ME/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/sr/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/strings.json"
+hash = "8576412d98c50a024e846106276d5e58ae3f49555f2de038705cf183694b3c05"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/sv-SE/strings.json"
+hash = "6b7b800714b9490c4ea5a3586b76c0ba2fbbb1ed00d88d5f989dfcacde9c40a9"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/swg/strings.json"
+hash = "4e40ebadd86616eaef661d5ad236d51a647a730fd488586447a201264f16ec56"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/szl/strings.json"
+hash = "ed37e1831b93674c506e1ceb10682c78d8f7e51c846eb015a05b6c2a345c89d4"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/ta/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/th/strings.json"
+hash = "f99613242e2796e41abb13af00395a4701622a17d5bed81d83d029470715b998"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/tl/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/tlh-AA/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/tr/strings.json"
+hash = "897a2f3977fbf4080fe0ea316867e49b5568ae8cf32e22396817380808050e35"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/tt-RU/strings.json"
+hash = "5b675c1be27b1ca671505b88dbfc999c9a4791b5d767ac0230d1680cb3d9084a"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/tzl/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/uk/strings.json"
+hash = "505d9c983678f8f6bce33d7f33b580ee917949af4ea079991f8779eae7c244fb"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/ur-PK/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/uz/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/val-ES/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/vec/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/vi/strings.json"
+hash = "e79961e59fe757f55a93a3366967d8b9d56815cad56301907e248d06640d97fd"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/yi/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/yo/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/zh-CN/strings.json"
+hash = "0e62f3e586fe2ba5c1de918fbbe63b84ee5569490af642e7537489d665fd5f7a"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/zh-HK/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "overrides/config/worldedit/.archive-unpack/5f7cd289/zh-TW/strings.json"
+hash = "dc3c9f6273f8c4e10cef482cd283d12c5a74ecdadf3f4f7d5e104b324a2b2720"
+
+[[files]]
+file = "overrides/config/worldedit/sessions/40f91e9a-427b-47b7-9722-35c5ffd37ef8.json"
+hash = "9757a6208de6780c7d86d61a75e997848a30a7e759f5e2f3e29d08ab7aa6383f"
+
+[[files]]
+file = "overrides/config/worldedit/worldedit.properties"
+hash = "9740d6c18a50ec94c27fede04b61a6c8c4d813707a4ac656d1a09c55a3fc5ef6"
+
+[[files]]
+file = "overrides/config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "overrides/config/xaeroworldmap-common.txt"
+hash = "ab09b6171d1f5f9c15d3ea653be739b53bca6f88db1ec38ae80575143c4c68cd"
+
+[[files]]
+file = "overrides/config/xaeroworldmap.txt"
+hash = "9d04f13359c30ba872ed56a52b30ab8a8924e139bf40bf9f52af82b99eb7ce31"
+
+[[files]]
+file = "overrides/config/yacl.json5"
+hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
+
+[[files]]
+file = "overrides/config/zoomify.json"
+hash = "60a78fe1b271ce9b53e295235eb5a7cdb3a8692ca583fdaa7f5bc09f9049e2f4"
+
+[[files]]
+file = "overrides/mods/OfflineSkins 1.21.4 Fabric.jar"
+hash = "dd7ba345f866f7dca08995d7944dd0dc2b30b188acd6bf15d9b250b5c0d2269f"
+
+[[files]]
+file = "overrides/options.txt"
+hash = "f8db1b78b450402dfca83b07937ce02f7e17c550b1ba15d04e8f73ec884b6f81"
+
+[[files]]
+file = "overrides/resourcepacks/Better bedrock.zip"
+hash = "9ad0e3b301ed190fe85fd8b820619bb98aa67f294cc225c7c580d684298404f5"
+
+[[files]]
+file = "overrides/resourcepacks/Better croshair.zip"
+hash = "26b47cd5737890a23484d0b8ab49e973c94d8eb55ccea8f46f33b4540e6ca426"
+
+[[files]]
+file = "overrides/resourcepacks/Brighter Nether.zip"
+hash = "47a6ccb8c447ceb69462fe92934f91c0b7036c37a3795780ed64794cc7fb9516"
+
+[[files]]
+file = "overrides/resourcepacks/Golder Carron hunger bar.zip"
+hash = "7e3c7149f6fd5b4bcef5a131d34610d6dcb4e2d3a28aae20ad0de93bfd968215"
+
+[[files]]
+file = "overrides/resourcepacks/NoVillagerIdleSounds121.zip"
+hash = "6c35ba5bfda5a0e465c1425ca318737bc0a326d7da229cb8e4a8f3ba9747a8b1"
+
+[[files]]
+file = "overrides/resourcepacks/Purple hearts.zip"
+hash = "1fb5b642d8cf321f0e1e3fc1265fafc6d4a1e8ef2cd6ee44d6e4fe69e42f2298"
+
+[[files]]
+file = "overrides/resourcepacks/Quiter Nether Portal.zip"
+hash = "11c844771641dd8a39bb250f892c55bbdb086dd0a0358c93553d43203a42dcb3"
+
+[[files]]
+file = "overrides/resourcepacks/Quiter Phantoms.zip"
+hash = "d76bd1e36e868b99e065ba1ef31bf928c9e32adca9c9ca3fc86cfc143fe85a3b"
+
+[[files]]
+file = "overrides/resourcepacks/Quiter minecarts.zip"
+hash = "91b9da36e8b43ce3055fc465753a5d616df8453ba55d659dc057617b2f0a37eb"
+
+[[files]]
+file = "overrides/resourcepacks/Rainbow XP bar.zip"
+hash = "2553288a0c05433c08889be525610649208438d4eff529fc69bfa6d28b3e2ffd"
+
+[[files]]
 file = "resourcepacks/clearview.pw.toml"
 hash = "b22cd9af128604e8c66e8537dba3789d66431e1a94167b98e79da713a02ad8df"
 metafile = true
@@ -342,3 +1822,7 @@ metafile = true
 file = "resourcepacks/tiny-totem.pw.toml"
 hash = "1cbc15a65c0942f592a426275dd048da1ef61b9e8468ec207c0c61458f52fa1a"
 metafile = true
+
+[[files]]
+file = "scripts/generate-modlist.sh"
+hash = "53b7156391cc9c6eae1272b3f9559ecf83c4848ea392d4dce87a0fd9906ff17a"
