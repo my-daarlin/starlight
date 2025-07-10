@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://fabricmc.net/">
-    <img src="https://img.shields.io/badge/Fabric-0.16.10-blueviolet?logo=fabric&logoColor=white" alt="Fabric Version">
+    <img src="https://img.shields.io/badge/Fabric-0.16.14-blueviolet?logo=fabric&logoColor=white" alt="Fabric Version">
   </a>
   <a href="https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21">
     <img src="https://img.shields.io/badge/Minecraft-1.21-green?logo=minecraft" alt="Minecraft">
@@ -35,77 +35,77 @@ This modpack is built to feel like **Minecraft, but smoother and faster** — a 
 1. Install the [Modrinth App](https://modrinth.com/app)
 2. Search for **Starlight**, or visit [the website](https://modrinth.com/project/kWqlGiOE)
 3. Click **Install**
-4. Launch and enjoy!
 
-### ⚙️ Manual with Packwiz
-
-If you're contributing to development or want full control:
-
-1. [Install Packwiz](https://packwiz.infra.link/installation/)
-2. Clone this repo:
-
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/starlight-modpack.git
-   cd starlight-modpack
-   ```
-3. Refresh mods and download them:
-
-   ```bash
-   packwiz refresh
-   ```
+---
 
 ## 🧑‍💻 Development Guide
 
-Starlight uses [Packwiz](https://packwiz.infra.link/) for modpack management. This allows simple mod additions, version locking, and repeatable builds via Git.
+Starlight uses [Packwiz](https://packwiz.infra.link/) for modpack management. This allows simple mod additions, version locking, and repeatable builds via Git. To install it, first [install the Go language](https://go.dev/doc/install) and then run this command:
 
-### ᴝ️ Add a New Mod from Modrinth
+```bash
+go install github.com/packwiz/packwiz@latest
+```
+
+### 💚 Adding Modrinth content
 
 ```bash
 packwiz modrinth add <mod-slug>
 ```
 
-💡 You can specify a version:
+This will create a `.toml` file in `mods/` for the mod.
 
-```bash
-packwiz modrinth add <mod-slug> --version <modrinth-version-id>
-```
+### 💜 Adding custom content
 
-This will create a `.toml` file in `mods/` and fetch the correct file.
+There is an `override` folder in the project. Everything from there will get merged with the project files during packaging. For example if I have a custom mod, I will place it in `overrides/mods/mod.jar` and during packaging, it will be put into `root/mods`. You can also use it for other custom content, like default option file (should be in `overrides/options.txt`) or the config directory.
 
 ### ↔️ Update All Mods
 
 ```bash
-packwiz update --all
+packwiz update -a
 ```
 
-### 📆 Export for Modrinth
+### 📆 Export
 
-To generate a `.mrpack` file for Modrinth or manual distribution:
+To generate a `.mrpack` file for Modrinth or manual distribution, use the `package.sh` script. To run it, go to the project root, and execute the following:
 
 ```bash
-packwiz mr export
+sh package.sh
 ```
 
 This will include:
 
-* All mod `.jar` links and metadata
-* Everything from the `overrides/` folder (config, resourcepacks, etc.)
+- All mod `.jar` links and metadata
+- Everything from the `overrides/` folder (config, resourcepacks, etc.)
+- Anything else in the repository not included in the `.packwizignore` file
+
+To generate a mod list with mod names and modrinth links (NOT including custom content in `overrides`), run the `generate-modlist.sh` script by  running:
+
+```bash
+sh generate-modlist.sh
+```
+> [!NOTE]
+> All generated files will be in the `generated` directory
 
 ## 📜 Mod List
 
 *(Coming soon – will include full mod names with Modrinth links)*
 
+## 📸 Screenshots
+
+*(Coming soon)*
+
+## Performance data
+
+*(Coming soon – will include how much fps it gets where)*
+
 ## 🌐 Resources
 
-This modpack uses open-source mods, resource packs, datapacks, and shaders from [Modrinth](https://modrinth.com/), a community-driven platform for Minecraft modding.
+- This modpack uses open-source mods, resource packs, datapacks, and shaders from [Modrinth](https://modrinth.com/), a community-driven platform for Minecraft modding.
+- Resource packs from [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/) were used.
+- The [Offline Skins](https://www.curseforge.com/minecraft/mc-mods/offlineskins) mod was used from Curseforge.
+- The Starlight logo was created using [Blockbench](https://www.blockbench.net/) with a minecraft text plugin. There is a video explaining how to do this [here]( https://www.youtube.com/watch?v=iGaufrACVj4).
 
 All mods are managed via [Packwiz](https://packwiz.infra.link/), ensuring safe, reproducible builds and easy updates.
-
-To sync or re-download all dependencies:
-
-```bash
-packwiz refresh
-```
 
 ## 🧷 License
 
