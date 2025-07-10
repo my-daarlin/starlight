@@ -1,0 +1,13 @@
+name = "CanLightningDoFire?"
+filename = "canlightningdofire-1.1.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/YlDgGYp0/versions/rpjFHK1n/canlightningdofire-1.1.2.jar"
+hash-format = "sha512"
+hash = "95ed3f25d8fd8ce13abe6391e334b1c3116a57ba5cddce2e6c053999fc79825fc8e6c6f337b7497cb55c63b347284464f6ff2d08a4535fdc14016fb735428518"
+
+[update]
+[update.modrinth]
+mod-id = "YlDgGYp0"
+version = "rpjFHK1n"

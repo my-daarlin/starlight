@@ -1,0 +1,13 @@
+name = "Beam Be Gone"
+filename = "BeamBeGone-0.0.2+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6B5InQA5/versions/zPeNiXoJ/BeamBeGone-0.0.2%2B1.21.jar"
+hash-format = "sha512"
+hash = "c46428957e4ff3580164aef9284fd34e5bd814236f498b22a3ed5b224a3fb2d938e519fd47abf38360f28d9552de4002bb0ff8b69fa269a403724b2ea1669d2d"
+
+[update]
+[update.modrinth]
+mod-id = "6B5InQA5"
+version = "zPeNiXoJ"

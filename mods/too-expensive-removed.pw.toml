@@ -1,0 +1,13 @@
+name = "Too Expensive Removed"
+filename = "too-expensive-removed-v1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LrtCyjyV/versions/t2CeuuGG/too-expensive-removed-v1.2.3.jar"
+hash-format = "sha512"
+hash = "62df9ce0f4aba7fb3e09114bb9d26274c12f38100433d92e7d12a1a85e7f1a58a2b85179d8b0f5fd296ab73ad6dbe2673cffd5e69d3ce9dd7b12401d0ba28b0e"
+
+[update]
+[update.modrinth]
+mod-id = "LrtCyjyV"
+version = "t2CeuuGG"

@@ -1,0 +1,13 @@
+name = "The Immersive Music Mod"
+filename = "timm-1.0.6-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/EgBj3Bnf/versions/Ylcg3neA/timm-1.0.6-1.21.1.jar"
+hash-format = "sha512"
+hash = "ec099994626dfe23fb13e28a0a876ae3707151a616dc270c86331a539c6c8b19bace08a3c0b31c028bc78a61bd9ea7ecabdb837d8cc8aaebcdfbe963c8399176"
+
+[update]
+[update.modrinth]
+mod-id = "EgBj3Bnf"
+version = "Ylcg3neA"
