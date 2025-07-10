@@ -1,0 +1,19 @@
+{
+  "name": "creeper_farm",
+  "current": "creeper_farm",
+  "boxes": [
+    {
+      "pos1": [
+        -1269,
+        179,
+        749
+      ],
+      "pos2": [
+        -1269,
+        189,
+        749
+      ],
+      "name": "creeper_farm"
+    }
+  ]
+}

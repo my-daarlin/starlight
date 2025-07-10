@@ -1,0 +1,10 @@
+ngrokAuthtoken = ""
+
+[lanSettings]
+gameMode = "SURVIVAL"
+onlineMode = false
+pvpEnabled = true
+tunnel = "NONE"
+port = 25565
+maxPlayers = 8
+motd = "${username} - ${world}"

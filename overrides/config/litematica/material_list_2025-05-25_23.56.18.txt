@@ -1,0 +1,50 @@
++----------------------------+-------+---------+-----------+
+| Material List for placement 'Unnamed'                    |
++----------------------------+-------+---------+-----------+
+| Item                       | Total | Missing | Available |
++----------------------------+-------+---------+-----------+
+| Magma Block                |  8452 |    8452 |         0 |
+| Black Stained Glass        |  3992 |    3992 |         0 |
+| Oak Trapdoor               |   539 |     539 |         0 |
+| Gray Concrete              |   241 |     241 |         0 |
+| Chest                      |   190 |     190 |         0 |
+| Hopper                     |   170 |     170 |         0 |
+| Polished Blackstone Wall   |   138 |     138 |         0 |
+| Redstone Dust              |   109 |     109 |         0 |
+| Polished Blackstone Button |    67 |      67 |         0 |
+| Obsidian                   |    50 |      40 |         4 |
+| Redstone Repeater          |    33 |      33 |         0 |
+| Redstone Torch             |    33 |      33 |         0 |
+| Redstone Comparator        |    32 |      32 |         0 |
+| Packed Ice                 |    29 |      29 |         0 |
+| Observer                   |    27 |      27 |         0 |
+| Dropper                    |    19 |      19 |         0 |
+| Crafter                    |    12 |      12 |         0 |
+| Iron Bars                  |    12 |      12 |         0 |
+| Oak Leaves                 |    10 |      10 |         0 |
+| Powder Snow Bucket         |    10 |      10 |         0 |
+| Powered Rail               |     9 |       9 |         0 |
+| Sticky Piston              |     9 |       9 |         0 |
+| Honey Block                |     8 |       8 |         0 |
+| Torch                      |     8 |       8 |         0 |
+| Ladder                     |     7 |       7 |         0 |
+| Oak Fence                  |     7 |       7 |         2 |
+| Composter                  |     6 |       6 |         0 |
+| Polished Blackstone Slab   |     5 |       5 |         0 |
+| Soul Soil                  |     3 |       3 |         0 |
+| Lever                      |     2 |       2 |         0 |
+| Note Block                 |     2 |       2 |         0 |
+| Oak Sign                   |     2 |       2 |         0 |
+| Piston                     |     2 |       2 |         0 |
+| Sand                       |     2 |       2 |         0 |
+| Slime Block                |     2 |       2 |         0 |
+| Brewing Stand              |     1 |       1 |         0 |
+| Cactus                     |     1 |       1 |         0 |
+| Chiseled Bookshelf         |     1 |       1 |         0 |
+| Dispenser                  |     1 |       1 |         0 |
+| Ender Chest                |     1 |       1 |         1 |
+| Redstone Lamp              |     1 |       1 |         0 |
+| Yellow Shulker Box         |     1 |       1 |         0 |
++----------------------------+-------+---------+-----------+
+| Item                       | Total | Missing | Available |
++----------------------------+-------+---------+-----------+

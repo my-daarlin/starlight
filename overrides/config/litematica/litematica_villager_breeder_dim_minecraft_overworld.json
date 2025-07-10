@@ -1,0 +1,44 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {},
+  "schematic_projects_manager": {},
+  "operation_mode": "AREA_SELECTION",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": 60,
+    "layer_above": 35,
+    "layer_below": 46,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Breeder",
+    "current": "Breeder",
+    "boxes": [
+      {
+        "pos1": [
+          793,
+          66,
+          -368
+        ],
+        "pos2": [
+          777,
+          76,
+          -381
+        ],
+        "name": "Breeder"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  },
+  "block_entities": {}
+}

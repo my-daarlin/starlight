@@ -1,0 +1,46 @@
+{
+  "data_storage": {
+    "distance_pos": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "hud_data": {
+    "seed": -4887070426391580792,
+    "spawn_chunk_radius": 0
+  },
+  "entities": {},
+  "shapes": {
+    "shapes": [
+      {
+        "type": "despawn_sphere",
+        "color": 1621114960,
+        "enabled": true,
+        "display_name": "Despawn Sphere ( \u003e 128)",
+        "render_type": "outer_edge",
+        "layers": {
+          "mode": "ALL",
+          "axis": "y",
+          "layer_single": 0,
+          "layer_above": 0,
+          "layer_below": 0,
+          "layer_range_min": 0,
+          "layer_range_max": 0,
+          "hotkey_range_min": false,
+          "hotkey_range_max": false
+        },
+        "snap": "center",
+        "combine_quads": false,
+        "center": [
+          173.5,
+          250.0,
+          -336.5
+        ],
+        "main_axis": "UP",
+        "radius": 128.0,
+        "margin": 1.5
+      }
+    ]
+  }
+}

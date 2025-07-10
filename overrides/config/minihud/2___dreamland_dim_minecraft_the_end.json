@@ -1,0 +1,15 @@
+{
+  "data_storage": {
+    "distance_pos": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "hud_data": {
+    "seed": -4887070426391580792,
+    "spawn_chunk_radius": 0
+  },
+  "entities": {},
+  "shapes": {}
+}

@@ -1,0 +1,44 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {},
+  "schematic_projects_manager": {},
+  "operation_mode": "AREA_SELECTION",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": 60,
+    "layer_above": 74,
+    "layer_below": 67,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Hanka Main House",
+    "current": "Hanka Main House",
+    "boxes": [
+      {
+        "pos1": [
+          -239,
+          49,
+          -414
+        ],
+        "pos2": [
+          -87,
+          101,
+          -260
+        ],
+        "name": "Hanka Main House"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  },
+  "block_entities": {}
+}

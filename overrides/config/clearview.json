@@ -1,0 +1,10 @@
+{
+  "DarknessEffect": false,
+  "BlindnessEffect": false,
+  "NauseaEffect": false,
+  "PortalOverlayDisabled": true,
+  "RemoveSpyglassBorder": true,
+  "FogDisabled": true,
+  "fogStart": 1000.0,
+  "fogEnd": 1000.0
+}

@@ -1,0 +1,163 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "/Users/matejstastny/minecraft/prism/Starlight 1.0.0/minecraft/schematics/Sugarcane Farm/Bamboo storage.litematic",
+        "name": "Bamboo storage",
+        "origin": [
+          -67,
+          58,
+          -169
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16738304,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Bamboo storage",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "Bamboo storage",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "/Users/matejstastny/minecraft/prism/Starlight 1.0.0/minecraft/schematics/Spawn Buildings/Daarlin\u0027s Cake Bakery.litematic",
+        "name": "Daarlin\u0027s Cake Bakery",
+        "origin": [
+          -55,
+          66,
+          -174
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 10927575,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Daarlin\u0027s Cake Bakery",
+            "placement": {
+              "pos": [
+                0,
+                12,
+                0
+              ],
+              "name": "Daarlin\u0027s Cake Bakery",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "/Users/matejstastny/minecraft/prism/Starlight 1.0.0/minecraft/schematics/Daarlin\u0027s Cactus Farm.litematic",
+        "name": "Unnamed",
+        "origin": [
+          -73,
+          66,
+          -124
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 32052,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                28,
+                14,
+                0
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 2,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": 45,
+    "layer_above": 74,
+    "layer_below": 67,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Unnamed",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -139,
+          63,
+          -99
+        ],
+        "pos2": [
+          -139,
+          63,
+          -99
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  },
+  "block_entities": {}
+}

@@ -1,0 +1,34 @@
+
+
+
+
+profile Saved activate HOT3
+	HOT1
+		"minecraft:dropper"
+	HOT2
+		"minecraft:lava_bucket"
+	HOT3
+		"minecraft:hopper"
+	HOT4
+		"minecraft:comparator"
+	HOT5
+		"minecraft:redstone"
+	HOT6
+		"minecraft:repeater"
+	HOT7
+		"minecraft:coal_block"
+	HOT8
+		"minecraft:golden_carrot"
+	HOT9
+		"minecraft:firework_rocket"
+	OFFHAND
+		"minecraft:totem_of_undying"
+	HEAD
+		"minecraft:netherite_helmet" -> [ "minecraft:enchantments"("[\"minecraft:mending\",\"minecraft:aqua_affinity\",\"minecraft:blast_protection\",\"minecraft:projectile_protection\",\"minecraft:respiration\",\"minecraft:protection\",\"minecraft:fire_protection\",\"minecraft:unbreaking\"]"), "minecraft:repair_cost"("255"), "minecraft:trim"("{material:\"minecraft:amethyst\",pattern:\"minecraft:silence\"}") ]
+	CHEST
+		"minecraft:elytra" -> [ "minecraft:custom_data"("{\"armored_elytra:chestplate\":{components:{\"minecraft:custom_name\":'\"Hoodie\"',\"minecraft:enchantments\":{levels:{\"minecraft:blast_protection\":4,\"minecraft:fire_protection\":4,\"minecraft:mending\":1,\"minecraft:projectile_protection\":4,\"minecraft:protection\":4,\"minecraft:unbreaking\":3}},\"minecraft:repair_cost\":63,\"minecraft:trim\":{material:\"minecraft:amethyst\",pattern:\"minecraft:silence\"}},count:1,id:\"minecraft:netherite_chestplate\"},\"armored_elytra:elytra\":{components:{\"minecraft:custom_name\":'\"Angel Wings\"',\"minecraft:damage\":43},count:1,id:\"minecraft:elytra\"}}"), "minecraft:enchantments"("[\"minecraft:mending\",\"minecraft:protection\",\"minecraft:fire_protection\",\"minecraft:blast_protection\",\"minecraft:projectile_protection\",\"minecraft:unbreaking\"]"), "minecraft:fire_resistant"("{}"), "minecraft:trim"("{material:\"minecraft:amethyst\",pattern:\"minecraft:silence\"}"), "minecraft:lore"("['\"\"','{\"color\":\"gray\",\"fallback\":\"With chesplate:\",\"italic\":false,\"translate\":\"item.armored_elytra.item_lore_text\"}','{\"color\":\"light_purple\",\"extra\":[\"Hoodie\"],\"italic\":true,\"text\":\" \"}']"), "minecraft:attribute_modifiers"("{modifiers:[{amount:8.0d,id:\"minecraft:armor.chestplate\",operation:\"add_value\",slot:\"chest\",type:\"minecraft:generic.armor\"},{amount:3.0d,id:\"minecraft:armor.chestplate\",operation:\"add_value\",slot:\"chest\",type:\"minecraft:generic.armor_toughness\"},{amount:0.10000000149011612d,id:\"minecraft:armor.chestplate\",operation:\"add_value\",slot:\"chest\",type:\"minecraft:generic.knockback_resistance\"}]}") ]
+	LEGS
+		"minecraft:netherite_leggings" -> [ "minecraft:enchantments"("[\"minecraft:mending\",\"minecraft:blast_protection\",\"minecraft:projectile_protection\",\"minecraft:swift_sneak\",\"minecraft:protection\",\"minecraft:fire_protection\",\"minecraft:unbreaking\"]"), "minecraft:repair_cost"("127"), "minecraft:trim"("{material:\"minecraft:amethyst\",pattern:\"minecraft:silence\"}") ]
+	FEET
+		"minecraft:netherite_boots" -> [ "minecraft:enchantments"("[\"minecraft:mending\",\"minecraft:blast_protection\",\"minecraft:projectile_protection\",\"minecraft:feather_falling\",\"minecraft:protection\",\"minecraft:fire_protection\",\"minecraft:unbreaking\"]"), "minecraft:repair_cost"("127"), "minecraft:trim"("{material:\"minecraft:amethyst\",pattern:\"minecraft:silence\"}") ]
+

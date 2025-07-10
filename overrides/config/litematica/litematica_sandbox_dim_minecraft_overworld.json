@@ -1,0 +1,123 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "/Users/matejstastny/minecraft/prism/Starlight 1.0.0/minecraft/schematics/DustMoss/Dustmoss Cube 2x3x2 Clock.litematic",
+        "name": "Dustmoss Cube 2x3x2 Clock",
+        "origin": [
+          36,
+          56,
+          97
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16152206,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Dustmoss Cube 2x3x2 Clock",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "Dustmoss Cube 2x3x2 Clock",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "/Users/matejstastny/minecraft/prism/Starlight 1.0.0/minecraft/schematics/Shulker Farm.litematic",
+        "name": "TheySix - NANO Shulker Farm MV4",
+        "origin": [
+          129,
+          55,
+          40
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 12648480,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "TheySix - NANO Shulker Farm MV4",
+            "placement": {
+              "pos": [
+                0,
+                63,
+                21
+              ],
+              "name": "TheySix - NANO Shulker Farm MV4",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": 0,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Pere Marquette 1225 Steam Train",
+    "current": "Pere Marquette 1225 Steam Train",
+    "boxes": [
+      {
+        "pos1": [
+          23,
+          55,
+          49
+        ],
+        "pos2": [
+          17,
+          64,
+          -17
+        ],
+        "name": "Pere Marquette 1225 Steam Train"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  },
+  "block_entities": {}
+}

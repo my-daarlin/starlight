@@ -1,0 +1,44 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {},
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": 60,
+    "layer_above": 32,
+    "layer_below": 35,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Daarlins WAIFU ",
+    "current": "Daarlins WAIFU ",
+    "boxes": [
+      {
+        "pos1": [
+          -119,
+          31,
+          204
+        ],
+        "pos2": [
+          -119,
+          31,
+          204
+        ],
+        "name": "Daarlins WAIFU "
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  },
+  "block_entities": {}
+}

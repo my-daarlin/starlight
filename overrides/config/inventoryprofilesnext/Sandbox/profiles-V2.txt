@@ -1,0 +1,47 @@
+
+
+
+
+profile Saved activate HOT5
+	HOT1
+		"minecraft:item_frame"
+	HOT2
+		"minecraft:chest"
+	HOT3
+		"minecraft:oak_sign"
+	HOT4
+		"minecraft:oak_sign"
+	HOT5
+		"minecraft:purple_wool"
+	HOT6
+		"minecraft:mangrove_pressure_plate"
+	HOT7
+		"minecraft:purple_banner"
+	HOT8
+		"minecraft:white_stained_glass"
+	HOT9
+		"minecraft:light_blue_banner"
+
+profile Saved activate HOT1
+	HOT1
+		"minecraft:wooden_axe"
+	HOT2
+		"minecraft:light_gray_carpet"
+	HOT3
+		"minecraft:sandstone"
+	HOT4
+		"minecraft:comparator"
+	HOT5
+		"minecraft:repeater"
+	HOT6
+		"minecraft:lever"
+	HOT7
+		"minecraft:sticky_piston"
+	HOT8
+		"minecraft:obsidian"
+	HOT9
+		"minecraft:slime_block"
+
+profile Saved activate HOT4
+	
+
