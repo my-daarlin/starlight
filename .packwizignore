@@ -22,3 +22,6 @@ Icon?
 
 # Generated files (by scripts)
 generated/
+
+# Script
+*.sh
