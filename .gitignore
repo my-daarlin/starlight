@@ -1,0 +1,25 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# macOS Finder and trash
+.Spotlight-V100
+.Trashes
+
+# GitHub & logs
+*.log
+
+# Export files
+*.zip
+*.mrpack
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Mods folder (Packwiz regenerates it)
+packwiz/mods/
