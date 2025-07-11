@@ -101,7 +101,7 @@ sh generate-modlist.sh
 
 _(Coming soon – will include full mod names with Modrinth links)_
 
-## Performance data
+## 📈 Performance data
 
 _(Coming soon – will include how much fps it gets where)_
 
@@ -110,7 +110,14 @@ _(Coming soon – will include how much fps it gets where)_
 
 ## 📸 Screenshots
 
-_(Coming soon)_
+<p align="center">
+    <img src="./assets/screenshots/menu.png" alt="Menu Screenshot" width="49%">
+    <img src="./assets/screenshots/inventory.png" alt="Inventory Screenshot" width="49%">
+</p>
+<p align="center">
+    <img src="./assets/screenshots/game-day.png" alt="Game Day Screenshot" width="49%">
+    <img src="./assets/screenshots/game-night.png" alt="Game Night Screenshot" width="49%">
+</p>
 
 <!-- MODRINTH_REMOVE_END -->
 
