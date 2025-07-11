@@ -2,7 +2,9 @@
   <img src="https://github.com/my-daarlin/starlight/blob/main/assets/starlight.png?raw=true" alt="Starlight Banner" width="80%">
 </p>
 
+<!-- MODRINTH_REMOVE_START -->
 <h1 align="center">𝙎𝙏𝘼𝙍𝙇𝙄𝙂𝙃𝙏</h1>
+<!-- MODRINTH_REMOVE_END -->
 
 <p align="center">
     <a href="https://fabricmc.net/">
@@ -31,6 +33,8 @@ This modpack is built to feel like **Minecraft, but smoother and faster** — a 
 - 💖 **Quality of life** — better UI, tooltips, world maps, and helpful tweaks without disrupting the vanilla flow
 
 🎨 Designed to stay **true to vanilla**, while offering subtle enhancements for players who want more — without _feeling_ like a modded pack.
+
+<!-- MODRINTH_REMOVE_START -->
 
 ## 📦 Installation
 
@@ -90,6 +94,8 @@ sh generate-modlist.sh
 
 > [!NOTE]
 > All generated files will be in the `generated` directory
+
+<!-- MODRINTH_REMOVE_END -->
 
 ## 📜 Mod List
 

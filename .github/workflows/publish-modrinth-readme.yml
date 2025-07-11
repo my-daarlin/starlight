@@ -1,0 +1,27 @@
+name: Clean README and Upload to Modrinth
+
+on:
+  push:
+    paths:
+      - "README.md"
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+
+      - name: Clean README
+        run: python clean_readme.py
+
+      - name: Upload cleaned README to Modrinth
+        run: |
+          curl -X PATCH "https://api.modrinth.com/v2/project/YOUR_PROJECT_ID" \
+            -H "Authorization: Bearer ${{ secrets.MODRINTH_TOKEN }}" \
+            -H "Content-Type: application/json" \
+            -d @<(jq -n --arg readme "$(cat assets/README-modrinth.md)" '{body: $readme}')
