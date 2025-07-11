@@ -21,7 +21,7 @@ jobs:
 
       - name: Upload cleaned README to Modrinth
         run: |
-          curl -X PATCH "https://api.modrinth.com/v2/project/YOUR_PROJECT_ID" \
+          curl -X PATCH "https://api.modrinth.com/v2/project/starlightmodpack" \
             -H "Authorization: Bearer ${{ secrets.MODRINTH_TOKEN }}" \
             -H "Content-Type: application/json" \
             -d @<(jq -n --arg readme "$(cat assets/README-modrinth.md)" '{body: $readme}')
