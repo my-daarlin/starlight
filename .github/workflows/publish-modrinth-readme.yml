@@ -16,10 +16,8 @@ jobs:
         with:
           python-version: 3.x
 
-      - name: List files
-        run: ls -R
-
       - name: Clean README
+        working-directory: ./starlight
         run: python clean_readme.py
 
       - name: Upload cleaned README to Modrinth
