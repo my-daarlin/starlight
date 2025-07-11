@@ -16,6 +16,9 @@ jobs:
         with:
           python-version: 3.x
 
+      - name: List files
+        run: ls -R
+
       - name: Clean README
         run: python clean_readme.py
 
