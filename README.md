@@ -7,6 +7,7 @@
 <!-- MODRINTH_REMOVE_END -->
 
 This is a test update :3
+This is a test update2 :3
 
 <p align="center">
     <a href="https://fabricmc.net/">
