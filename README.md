@@ -6,9 +6,6 @@
 <h1 align="center">𝙎𝙏𝘼𝙍𝙇𝙄𝙂𝙃𝙏</h1>
 <!-- MODRINTH_REMOVE_END -->
 
-This is a test update :3
-This is a test update2 :3
-
 <p align="center">
     <a href="https://fabricmc.net/">
         <img src="https://img.shields.io/badge/Fabric-0.16.14-blueviolet?logo=fabric&logoColor=white" alt="Fabric Version">
