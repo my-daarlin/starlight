@@ -104,13 +104,18 @@ sh generate-modlist.sh
 
 _(Coming soon – will include full mod names with Modrinth links)_
 
+## Performance data
+
+_(Coming soon – will include how much fps it gets where)_
+
+<!-- MODRINTH_REMOVE_START -->
+<!-- Modrinth has a Gallery tab -->
+
 ## 📸 Screenshots
 
 _(Coming soon)_
 
-## Performance data
-
-_(Coming soon – will include how much fps it gets where)_
+<!-- MODRINTH_REMOVE_END -->
 
 ## 🌐 Resources
 
