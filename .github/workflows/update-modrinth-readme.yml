@@ -1,4 +1,4 @@
-name: Clean README and Upload to Modrinth
+name: Update Modrinth README
 
 on:
   push:
@@ -17,7 +17,7 @@ jobs:
           python-version: 3.x
 
       - name: Clean README
-        run: python clean-readme.py
+        run: python scripts/clean-readme.py
 
       - name: Upload cleaned README to Modrinth
         run: |
