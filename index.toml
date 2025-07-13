@@ -96,11 +96,6 @@ hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
 metafile = true
 
 [[files]]
-file = "mods/elytra-armor.pw.toml"
-hash = "e4df48888211e531038db76d5ba8ee0df9a253f82e753b9aecacd750ff6981a6"
-metafile = true
-
-[[files]]
 file = "mods/enderman-grief.pw.toml"
 hash = "f06a1602279653f4425efac39aa0757d916dc469154f9c3ff76aeaf195fab4c4"
 metafile = true
@@ -108,16 +103,6 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "dcfd69fe4f642597dab1eea5091f6b69c0618e7f8b14b44e67dc5ef9bef7fb73"
-metafile = true
-
-[[files]]
-file = "mods/expanded-bow-enchanting.pw.toml"
-hash = "6d276c014013e64e5d60550e7f6191585a22347b4392cc1fd68c5178b8909569"
-metafile = true
-
-[[files]]
-file = "mods/expanded-trident-enchanting.pw.toml"
-hash = "143a6aef55ae4d4f40c7e9fe0227417c01543ef1198b17345d79367466736d74"
 metafile = true
 
 [[files]]
@@ -158,11 +143,6 @@ metafile = true
 [[files]]
 file = "mods/immersivemusicmod.pw.toml"
 hash = "23c464e7f17e2fcb5cb93bd725e559d1e11a76343b603eff17e6f9827a89cd4a"
-metafile = true
-
-[[files]]
-file = "mods/infinite-trading.pw.toml"
-hash = "e5a2b00a5a99de7ed4cf8184a60307afeecc4dce5ae0fb073cef29bef42e9826"
 metafile = true
 
 [[files]]
@@ -296,13 +276,18 @@ hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
 metafile = true
 
 [[files]]
+file = "mods/teleport-commands.pw.toml"
+hash = "6e9b900c5f311f4100bfc063c5a0b58513426ffdc108c0eb55f3948bb847a5fe"
+metafile = true
+
+[[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "5afa351b0c8e379990b962af499f90b124a4c79fc86f8f3dc3ef716a472e766e"
 metafile = true
 
 [[files]]
-file = "mods/too-expensive-removed.pw.toml"
-hash = "78b309e6886f1ad7cb4371f3a04178b084cb334a5e55971363612d4789ca9711"
+file = "mods/tweakeroo.pw.toml"
+hash = "6c34559a86e1bfb79e41b1853f61d3db7e217333476d5b4cdb598a4618d898b8"
 metafile = true
 
 [[files]]
@@ -1802,6 +1787,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/new-glowing-ores.pw.toml"
 hash = "0511040326c7649fde9b5784fff73b083f55e4ae7d43bfebc5e494cde0fe49e3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/new-music.pw.toml"
+hash = "85599103fe65c57bea339ef7e0f4c57edeebbabf0f1cda5562fd15c3105be3bb"
 metafile = true
 
 [[files]]

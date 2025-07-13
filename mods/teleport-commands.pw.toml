@@ -1,0 +1,13 @@
+name = "Teleport Commands"
+filename = "teleport_commands-fabric-1.21-1.2.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/3ne670on/versions/nI1ReP3C/teleport_commands-fabric-1.21-1.2.1.jar"
+hash-format = "sha512"
+hash = "232d02f2a833ee594c6d44c667d910a0023507460747e358ed9d013683e0f7536d8fc291ab6a9c29219c1c36d2ab211ffe9bbe4571ebd72d33c8c78ceaea4e3d"
+
+[update]
+[update.modrinth]
+mod-id = "3ne670on"
+version = "nI1ReP3C"
