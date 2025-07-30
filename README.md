@@ -225,10 +225,10 @@ _(Coming soon – will include how much fps it gets where)_
 
 ## 🌐 Credits & Resources
 
-- This modpack uses open-source mods, resource packs, datapacks, and shaders from [Modrinth](https://modrinth.com/), a community-driven platform for Minecraft modding.
-- Resource packs from [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/) were used.
-- The [Offline Skins](https://www.curseforge.com/minecraft/mc-mods/offlineskins-fabric) mod was used from Curseforge.
-- The Starlight logo was created using [Blockbench](https://www.blockbench.net/) with a minecraft text plugin. There is a video explaining how to do this [here](https://www.youtube.com/watch?v=iGaufrACVj4).
+- This modpack uses mods and resource packs from [Modrinth](https://modrinth.com/), a community-driven platform for Minecraft modding.
+- This modpack uses resource packs from the [Vanilla Tweaks](https://vanillatweaks.net/) portal.
+- The [Offline Skins](https://www.curseforge.com/minecraft/mc-mods/offlineskins-fabric) mod was used from [Curseforge](https://www.curseforge.com/minecraft).
+- The Starlight logo was created using [Blockbench](https://www.blockbench.net/) with a Minecraft text plugin. There is a video explaining how to do this [here](https://www.youtube.com/watch?v=iGaufrACVj4).
 
 All mods are managed via [Packwiz](https://packwiz.infra.link/).
 
