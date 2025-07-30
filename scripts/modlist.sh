@@ -1,11 +1,12 @@
 #!/bin/bash
 
+set -e
+
 # ───────────────────────────────────────────────────────────────────────────────
 # Modrinth modlist generation script
 # Generates a modlist for the README file from mod .toml files in the mods
 # directory, and then pastes it into the README in between specified markers.
 # ───────────────────────────────────────────────────────────────────────────────
-
 
 # ─── Configuration ─────────────────────────────────────────────────────────────
 
@@ -38,8 +39,8 @@ echo "━━━━━━━━━━━━━━━━━━━━━━━━�
 
 # ─── Initialization ────────────────────────────────────────────────────────────
 
+output_file="$(realpath "$README_FILE")"
 cd "$(dirname "$0")/.."
-output_file="$README_FILE"
 
 # ─── Mods ──────────────────────────────────────────────────────────────────────
 
@@ -51,15 +52,19 @@ for file in "$MODS_DIR"/*.toml; do
     name=$(grep '^name = "' "$file" | sed -E 's/name = "(.*)"/\1/' | sed 's/\\"/"/g')
     modid=$(grep 'mod-id = "' "$file" | sed -E 's/mod-id = "(.*)"/\1/')
     if [ -n "$name" ] && [ -n "$modid" ]; then
-        log "Found mod: $name (mod-id: $modid)"
+        success "Found mod: $name (mod-id: $modid)"
         modlist_table="${modlist_table}\n| $name | [Modrinth](https://modrinth.com/mod/$modid) |"
     else
         error "Error at file: $file (missing name or mod-id)"
     fi
 done
 
-sed -i '' "/$MODLIST_START/,/$MODLIST_END/c\\
-$MODLIST_START\n$modlist_table\n$MODLIST_END
-" "$output_file" || error "Failed to write to $output_file"
+# ─── Write ─────────────────────────────────────────────────────────────────────
+
+awk -v start="$MODLIST_START" -v end="$MODLIST_END" -v table="$modlist_table" '
+$0 ~ start { print start; print table; skip=1; next }
+$0 ~ end { print end; skip=0; next }
+!skip { print }
+' "$output_file" > "${output_file}.tmp" && mv "${output_file}.tmp" "$output_file" || error "Failed to write to $output_file"
 
 success "Modlist generation completed and saved to $output_file"
