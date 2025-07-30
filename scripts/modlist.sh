@@ -10,11 +10,12 @@ set -e
 
 # ─── Configuration ─────────────────────────────────────────────────────────────
 
-MODS_DIR="mods"                                          # Directory containing mod .toml files
-README_FILE="../README.md"                               # Path to the README file relative to this script
-MODLIST_START="<!-- MODLIST_START -->"                   # Start marker for modlist in README
-MODLIST_END="<!-- MODLIST_END -->"                       # End marker for modlist in README
-MODLIST_HEADER="| Name | Source |\n|------|----------|"  # Header for the modlist table
+MODS_DIR="mods"                                                      # Directory containing mod .toml files
+RESOURCEPACKS_DIR="resourcepacks"                                    # Directory containing resourcepack .toml files
+README_FILE="../README.md"                                           # Path to the README file relative to this script
+MODLIST_START="<!-- MODLIST_START -->"                               # Start marker for modlist in README
+MODLIST_END="<!-- MODLIST_END -->"                                   # End marker for modlist in README
+MODLIST_HEADER="| Name | Type | Source |\n|------|------|--------|"  # Header for the modlist table
 
 # ─── Logging ───────────────────────────────────────────────────────────────────
 
@@ -47,13 +48,29 @@ cd "$(dirname "$0")/.."
 log "Starting modlist generation..."
 modlist_table="$MODLIST_HEADER"
 
+log "Going through mods..."
 for file in "$MODS_DIR"/*.toml; do
+    [ -f "$file" ] || continue
     log "Processing file: $file"
     name=$(grep '^name = "' "$file" | sed -E 's/name = "(.*)"/\1/' | sed 's/\\"/"/g')
     modid=$(grep 'mod-id = "' "$file" | sed -E 's/mod-id = "(.*)"/\1/')
     if [ -n "$name" ] && [ -n "$modid" ]; then
         success "Found mod: $name (mod-id: $modid)"
-        modlist_table="${modlist_table}\n| $name | [Modrinth](https://modrinth.com/mod/$modid) |"
+        modlist_table="${modlist_table}\n| $name | Mod | [Modrinth](https://modrinth.com/mod/$modid) |"
+    else
+        error "Error at file: $file (missing name or mod-id)"
+    fi
+done
+
+log "Going through texturepacks..."
+for file in "$RESOURCEPACKS_DIR"/*.toml; do
+    [ -f "$file" ] || continue
+    log "Processing texturepack file: $file"
+    name=$(grep '^name = "' "$file" | sed -E 's/name = "(.*)"/\1/' | sed 's/\\"/"/g')
+    modid=$(grep 'mod-id = "' "$file" | sed -E 's/mod-id = "(.*)"/\1/')
+    if [ -n "$name" ] && [ -n "$modid" ]; then
+        success "Found texturepack: $name (mod-id: $modid)"
+        modlist_table="${modlist_table}\n| $name | Texturepack | [Modrinth](https://modrinth.com/mod/$modid) |"
     else
         error "Error at file: $file (missing name or mod-id)"
     fi
