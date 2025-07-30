@@ -99,7 +99,11 @@ sh generate-modlist.sh
 
 ## 📜 Mod List
 
-_(Coming soon – will include full mod names with Modrinth links)_
+This is a list of all mods and resourcepack included in the modpack with sources and links.
+
+<!-- MODLIST_START -->
+
+<!-- MODLIST_END -->
 
 ## 📈 Performance data
 
