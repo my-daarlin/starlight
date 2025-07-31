@@ -203,7 +203,7 @@ Non Modrinth content, or Modrinth content in a specific version. Not managed by 
 _(Coming soon – will include how much fps it gets where)_
 
 <!-- MODRINTH_REMOVE_START -->
-<!-- Modrinth has a Gallery tab -->
+<!-- Removed, because Modrinth has a Gallery tab -->
 
 ## 📸 Screenshots
 
