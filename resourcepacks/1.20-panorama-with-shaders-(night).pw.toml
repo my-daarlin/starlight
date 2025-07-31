@@ -1,0 +1,13 @@
+name = "1.20 panorama with shaders (night)"
+filename = "panorama with shaders 1.20 night.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HmYNU7gu/versions/WCkAWA6e/panorama%20with%20shaders%201.20%20night.zip"
+hash-format = "sha512"
+hash = "b32e9c4d9784920a12660739fce21a0d3ecffb7099a5dc3d59b68fc5c095990c0780466a2fc5b857439726d76759a96e59e4866d599c2397319568f866cdd5e5"
+
+[update]
+[update.modrinth]
+mod-id = "HmYNU7gu"
+version = "WCkAWA6e"

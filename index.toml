@@ -1775,6 +1775,11 @@ file = "overrides/resourcepacks/Rainbow XP bar.zip"
 hash = "2553288a0c05433c08889be525610649208438d4eff529fc69bfa6d28b3e2ffd"
 
 [[files]]
+file = "resourcepacks/1.20-panorama-with-shaders-(night).pw.toml"
+hash = "e7a1d62dcdd645d2db967c8a775502c6f46e31f2574ca63d091802dea3d51857"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
 hash = "774b51f7257a3a18f0afc40c155bac4bb1dbade055170137f2ac96456f0e3653"
 metafile = true
