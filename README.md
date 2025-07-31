@@ -95,12 +95,7 @@ To generate a mod list with mod names and modrinth links (NOT including custom c
 sh update-content-list.sh
 ```
 
-This script will generate all a list of all Packwiz content and its links, and will paste it between the following HTML comments in this README:
-
-```html
-<!-- MODLIST_START -->
-<!-- MODLIST_END -->
-```
+This script will generate all a list of all Packwiz content and its links, and will paste it between tartget HTML comments.
 
 > [!WARNING]
 > Running this script will replace all text in between those tags (to remove the old modlist). Do not write anything you want to keep in there!
@@ -181,6 +176,7 @@ Modrinth content in it's latest versions. Managed by `packwiz`.
 | Mob Crates                                  | Texturepack | [Modrinth](https://modrinth.com/mod/bYcjtBki) |
 | New Glowing Ores                            | Texturepack | [Modrinth](https://modrinth.com/mod/oL18adaQ) |
 | Music Re-cued                               | Texturepack | [Modrinth](https://modrinth.com/mod/1YcGoGPE) |
+| 🌙 Night UI - A Dark Themed Resource Pack   | Texturepack | [Modrinth](https://modrinth.com/mod/JEGWvrJj) |
 | Tiny Totem                                  | Texturepack | [Modrinth](https://modrinth.com/mod/rlVZIVlP) |
 
 <!-- MODLIST_END -->
@@ -193,7 +189,6 @@ Non Modrinth content, or Modrinth content in a specific version. Not managed by 
 | ------------------------ | ----------- | ---------------------------------------------------------------------------------------- |
 | Offline Skins            | Mod         | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/offlineskins-fabric)           |
 | No Villager Idle Sounds  | Texturepack | [Curseforge](https://www.curseforge.com/minecraft/texture-packs/no-villager-idle-sounds) |
-| NightUI v1.2.1           | Texturepack | [Modrinth](https://modrinth.com/resourcepack/night-ui/version/1.2.1)                     |
 | Alternate Bedrock        | Texturepack | [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/)                        |
 | Square Plus Crosshair    | Texturepack | [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/)                        |
 | Brighter Nether          | Texturepack | [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/)                        |

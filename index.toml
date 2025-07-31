@@ -1795,6 +1795,11 @@ hash = "85599103fe65c57bea339ef7e0f4c57edeebbabf0f1cda5562fd15c3105be3bb"
 metafile = true
 
 [[files]]
+file = "resourcepacks/night-ui.pw.toml"
+hash = "cd643baf5c9ef6cf31d3526fa4ca328560596f2b5b83ec5a2eec93106889d202"
+metafile = true
+
+[[files]]
 file = "resourcepacks/tiny-totem.pw.toml"
 hash = "1cbc15a65c0942f592a426275dd048da1ef61b9e8468ec207c0c61458f52fa1a"
 metafile = true
