@@ -1790,11 +1790,6 @@ hash = "0511040326c7649fde9b5784fff73b083f55e4ae7d43bfebc5e494cde0fe49e3"
 metafile = true
 
 [[files]]
-file = "resourcepacks/new-music.pw.toml"
-hash = "85599103fe65c57bea339ef7e0f4c57edeebbabf0f1cda5562fd15c3105be3bb"
-metafile = true
-
-[[files]]
 file = "resourcepacks/night-ui.pw.toml"
 hash = "cd643baf5c9ef6cf31d3526fa4ca328560596f2b5b83ec5a2eec93106889d202"
 metafile = true
