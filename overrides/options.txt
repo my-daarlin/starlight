@@ -48,8 +48,8 @@ mouseSensitivity:0.4894366197183099
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:false
-resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","file/Better bedrock.zip","file/Better croshair.zip","file/Brighter Nether.zip","file/Fast Better Grass.zip","file/Golder Carron hunger bar.zip","file/MobCrates_1.21_v1.zip","file/NightUI v1.2.0.zip","file/NoVillagerIdleSounds121.zip","file/Purple hearts.zip","file/Quiter Dispensers.zip","file/Quiter Nether Portal.zip","file/Quiter minecarts.zip","file/Rainbow XP bar.zip","file/Tiny_Totem.zip","file/NewGlowingOres-§6[Border]§r.zip","continuity:default"]
-incompatibleResourcePacks:["fancymenu","jade","konkrete","modernfix","resourcify","xaeroworldmap","yet_another_config_lib_v3"]
+resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","file/Fast Better Grass.zip","file/MobCrates_1.21_v1.zip","file/NoVillagerIdleSounds121.zip","file/Tiny_Totem.zip","file/NewGlowingOres-§6[Border]§r.zip","continuity:default","file/VT Alternate Bedrock.zip","file/VT Brighter Nether.zip","file/VT Golder Carron hunger bar.zip","file/VT Purple Hearts.zip","file/VT Quiter Minecarts.zip","file/VT Quiter Nether Portal.zip","file/VT Rainbow Expirience Bar.zip","file/VT Square Plus Crosshair.zip","file/§e☽ §d§lNightUI§8§o §bv1.4-beta§8.zip","file/panorama with shaders 1.20 night.zip"]
+incompatibleResourcePacks:["fancymenu","jade","konkrete","modernfix","tweakeroo","xaeroworldmap","file/§e☽ §d§lNightUI§8§o §bv1.4-beta§8.zip","file/panorama with shaders 1.20 night.zip"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -123,6 +123,7 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
+key_key.wi_zoom.zoom:key.keyboard.v
 key_key.clearview.darkness:key.keyboard.unknown
 key_key.clearview.blindness:key.keyboard.unknown
 key_key.clearview.nausea:key.keyboard.unknown
@@ -152,8 +153,6 @@ key_gui.xaero_quick_confirm:key.keyboard.right.shift
 key_gui.xaero_toggle_dimension:key.keyboard.unknown
 key_gui.xaero_toggle_tracked_players:key.keyboard.unknown
 key_gui.xaero_toggle_pac_chunk_claims:key.keyboard.unknown
-key_zoomify.key.zoom:key.keyboard.c
-key_zoomify.key.zoom.secondary:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.i
 key_iris.keybind.shaderPackSelection:key.keyboard.o
