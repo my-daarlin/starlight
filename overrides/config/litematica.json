@@ -6,6 +6,7 @@
     "schematicRebuildBreakPlaceOverlayColor": "#4C33CC33",
     "schematicRebuildBreakExceptPlaceOverlayColor": "#4CF03030",
     "schematicRebuildReplaceOverlayColor": "#4CF0A010",
+    "schematicOverlayColorDiffBlock": "#30F8D650",
     "schematicOverlayColorExtra": "#4CFF4CE6",
     "schematicOverlayColorMissing": "#2C33B3E6",
     "schematicOverlayColorWrongBlock": "#4CFF3333",
@@ -29,7 +30,13 @@
     "easyPlaceProtocolVersion": "auto",
     "easyPlaceSwingHand": true,
     "easyPlaceVanillaReach": false,
-    "entityDataSync": true,
+    "enableDifferentBlocks": false,
+    "entityDataSync": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
     "entityDataSyncBackup": true,
     "entityDataSyncCacheTimeout": 2.0,
     "entityDataSyncLoadNbt": true,
@@ -67,6 +74,7 @@
     "toolItemEnabled": true,
     "unhideSchematicVCS": false,
     "pasteReplaceBehavior": "all",
+    "schematicVcsDeleteMode": "matching_block",
     "selectionCornersMode": "corners",
     "commandFillMaxVolume": 32768,
     "commandLimitPerTick": 8,
@@ -93,6 +101,9 @@
     },
     "easyPlaceUseKey": {
       "keys": "BUTTON_2"
+    },
+    "easyPlaceFirst": {
+      "keys": ""
     },
     "easyPlaceToggle": {
       "keys": "P"
@@ -209,6 +220,9 @@
       "keys": ""
     },
     "schematicPlacementMirror": {
+      "keys": ""
+    },
+    "schematicVCSDeleteBlockByPlacement": {
       "keys": ""
     },
     "schematicVersionCycleModifier": {
@@ -343,15 +357,18 @@
     "enablePlacementBoxesRendering": true,
     "enableSchematicBlocksRendering": true,
     "enableSchematicFluidRendering": true,
+    "enableSchematicFakeLighting": true,
     "enableSchematicOverlay": true,
     "ignoreExistingFluids": false,
     "overlayReducedInnerSides": false,
     "renderAOModernEnable": false,
     "renderAreaSelectionBoxSides": true,
     "renderBlocksAsTranslucent": false,
+    "renderEnableTranslucentResorting": true,
     "renderCollidingSchematicBlocks": false,
     "renderErrorMarkerConnections": false,
     "renderErrorMarkerSides": true,
+    "renderFakeLightingLevel": 15,
     "renderPlacementBoxSides": false,
     "renderPlacementEnclosingBox": true,
     "renderPlacementEnclosingBoxSides": false,
@@ -362,6 +379,7 @@
     "schematicOverlayModelOutline": true,
     "schematicOverlayModelSides": false,
     "schematicOverlayRenderThroughBlocks": false,
+    "schematicOverlayTypeDiffBlock": true,
     "schematicOverlayTypeExtra": true,
     "schematicOverlayTypeMissing": true,
     "schematicOverlayTypeWrongBlock": true,
