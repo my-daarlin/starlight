@@ -48,7 +48,7 @@ mouseSensitivity:0.4894366197183099
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:false
-resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","file/Fast Better Grass.zip","file/MobCrates_1.21_v1.zip","file/NoVillagerIdleSounds121.zip","file/Tiny_Totem.zip","file/NewGlowingOres-§6[Border]§r.zip","continuity:default","file/VT Alternate Bedrock.zip","file/VT Brighter Nether.zip","file/VT Golder Carron hunger bar.zip","file/VT Purple Hearts.zip","file/VT Quiter Minecarts.zip","file/VT Quiter Nether Portal.zip","file/VT Rainbow Expirience Bar.zip","file/VT Square Plus Crosshair.zip","file/§e☽ §d§lNightUI§8§o §bv1.4-beta§8.zip","file/panorama with shaders 1.20 night.zip"]
+resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","file/Fast Better Grass.zip","file/MobCrates_1.21_v1.zip","file/NoVillagerIdleSounds121.zip","file/Tiny_Totem.zip","file/NewGlowingOres-§6[Border]§r.zip","continuity:default","file/§e☽ §d§lNightUI§8§o §bv1.4-beta§8.zip","file/VT Alternate Bedrock.zip","file/VT Brighter Nether.zip","file/VT Golder Carron hunger bar.zip","file/VT Purple Hearts.zip","file/VT Quiter Minecarts.zip","file/VT Quiter Nether Portal.zip","file/VT Rainbow Expirience Bar.zip","file/VT Square Plus Crosshair.zip","file/panorama with shaders 1.20 night.zip"]
 incompatibleResourcePacks:["fancymenu","jade","konkrete","modernfix","tweakeroo","xaeroworldmap","file/§e☽ §d§lNightUI§8§o §bv1.4-beta§8.zip","file/panorama with shaders 1.20 night.zip"]
 lastServer:
 lang:en_us
