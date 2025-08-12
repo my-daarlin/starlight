@@ -23,5 +23,10 @@ Icon?
 # Generated files (by scripts)
 generated/
 
-# Script
+# Scripts
+scripts/
+.github/
 *.sh
+
+# Other non-minecraft assets
+assets/
