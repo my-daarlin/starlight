@@ -90,11 +90,6 @@ hash = "09debeed0a707ca01408146bca5f304ee7840f4d6848c49ec74d778060752d07"
 metafile = true
 
 [[files]]
-file = "mods/canlightningdofire.pw.toml"
-hash = "2cc8f4557e22f6427caedea1f08bd717cb80c96e1eab2e7516a2fc3fa7d5749e"
-metafile = true
-
-[[files]]
 file = "mods/carpet.pw.toml"
 hash = "a059d2d23cd47fe2e698f06826a1053a39599f74fb1b739c622754630f90086c"
 metafile = true
@@ -262,11 +257,6 @@ metafile = true
 [[files]]
 file = "mods/no-silk-touch-ender-chest.pw.toml"
 hash = "d1afacb59e06bdc45974200cce333f8acafbd3043f178a242c6a340edb91eb81"
-metafile = true
-
-[[files]]
-file = "mods/noisium.pw.toml"
-hash = "dcc936d7bd32a86ce63fa3bf013864a4e2ed979cb126a915153ac70ce5e5671f"
 metafile = true
 
 [[files]]
