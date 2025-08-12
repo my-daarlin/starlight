@@ -9,6 +9,62 @@ file = "README.md"
 hash = "f8b3c1f0e7af706460fe40c307857508478b92376f59d12d54b6a10add890923"
 
 [[files]]
+file = "assets/blockbench/icon.bbmodel"
+hash = "b8a68d898d73600e6845aa3ef0d07caf9c0f7d1bbb82ade68b0cb431c8e2a013"
+
+[[files]]
+file = "assets/blockbench/starlight-pro.bbmodel"
+hash = "ed40526ac7420284e7ccb649af3189146431d04e127a65ff073340eacbbf70cb"
+
+[[files]]
+file = "assets/blockbench/starlight.bbmodel"
+hash = "34a9842065f3d27992e122fceedd2f018a5836a3a51dfed286a982ce7f1ff918"
+
+[[files]]
+file = "assets/icon.png"
+hash = "3a2cc68ca0036b227b0549fbbad49203771664a98a29f2f943938716f7bb2c0c"
+
+[[files]]
+file = "assets/screenshots/game-day.png"
+hash = "e167a6794f2ffd64636aa9795540296fe97d5a837813b84b590daed38e772510"
+
+[[files]]
+file = "assets/screenshots/game-night.png"
+hash = "334f0cff8013074fc78c81119945cf85336a959e551e843d5684665bec766bd4"
+
+[[files]]
+file = "assets/screenshots/inventory.png"
+hash = "4920e6d52bec2c6c3f0ab440ca8baa9ba0292be313ffd10dfc7ddbc15226f8e3"
+
+[[files]]
+file = "assets/screenshots/low-res/game-day.jpg"
+hash = "896552cca31d78da5f64d06f667e45e78c3109316857f7fed52d74305a8fb2e0"
+
+[[files]]
+file = "assets/screenshots/low-res/game-night.jpg"
+hash = "12d7d5773d32e0b6093a9a7c900fd981d2171347da3ce5b2ee1865b09db440eb"
+
+[[files]]
+file = "assets/screenshots/low-res/inventory.jpg"
+hash = "53069f2db3bb5f4225afdd2176d3d169a1d5d0cb635ec7a9acc06a0eec255878"
+
+[[files]]
+file = "assets/screenshots/low-res/menu.jpg"
+hash = "20f28f53a3602ce4fe3d53d6a71645a11b95335d435c7c8f9aa2bdc34d9f3dc4"
+
+[[files]]
+file = "assets/screenshots/menu.png"
+hash = "e750ca465f00e2e0a6b4d28b1582cf99c0bcf4ee0eaf06ceb012157b708db60b"
+
+[[files]]
+file = "assets/starlight-pro.png"
+hash = "b2793ce64645b2a0c0febd0ef823444cfd98e1d986c5628e4ff90951e5343d89"
+
+[[files]]
+file = "assets/starlight.png"
+hash = "7cad1903e6d1a0ea7194f604a241adc2df419d56a4c7d832e60288f68d1d752b"
+
+[[files]]
 file = "mods/\"limitless\"-banners.pw.toml"
 hash = "ebda8feddad218ac7b2158b8a681bb05668b710c5bfd05abfebabdf6a812681d"
 metafile = true
@@ -385,6 +441,14 @@ hash = "3d6ba6a3134c2eefc9dce5961a601a8164ff0327ec09e04b677074c373f25f83"
 [[files]]
 file = "overrides/config/fabric/indigo-renderer.properties"
 hash = "bc64ede0e023888f6ba2662d6e1bc496c998faea231aec5e910fbd196a3a47ef"
+
+[[files]]
+file = "overrides/config/fancymenu/assets/starlight-pro-logo.png"
+hash = "b2793ce64645b2a0c0febd0ef823444cfd98e1d986c5628e4ff90951e5343d89"
+
+[[files]]
+file = "overrides/config/fancymenu/assets/starlight.png"
+hash = "7cad1903e6d1a0ea7194f604a241adc2df419d56a4c7d832e60288f68d1d752b"
 
 [[files]]
 file = "overrides/config/fancymenu/custom_gui_screens.txt"
