@@ -27,6 +27,3 @@ generated/
 scripts/
 .github/
 *.sh
-
-# Other non-minecraft assets
-assets/
