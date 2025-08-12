@@ -119,7 +119,6 @@ Modrinth content in it's latest versions. Managed by `packwiz`.
 | BadOptimizations                            | Mod         | [Modrinth](https://modrinth.com/mod/g96Z4WVZ) |
 | Beam Be Gone                                | Mod         | [Modrinth](https://modrinth.com/mod/6B5InQA5) |
 | Concurrent Chunk Management Engine (Fabric) | Mod         | [Modrinth](https://modrinth.com/mod/VSNURh3q) |
-| CanLightningDoFire?                         | Mod         | [Modrinth](https://modrinth.com/mod/YlDgGYp0) |
 | Carpet                                      | Mod         | [Modrinth](https://modrinth.com/mod/TQTTVgYE) |
 | Clearviews                                  | Mod         | [Modrinth](https://modrinth.com/mod/TwYypE5e) |
 | ClickThrough Plus                           | Mod         | [Modrinth](https://modrinth.com/mod/fJi8nm80) |
@@ -154,7 +153,6 @@ Modrinth content in it's latest versions. Managed by `packwiz`.
 | Mod Menu                                    | Mod         | [Modrinth](https://modrinth.com/mod/mOgUt4GM) |
 | No More Phantoms                            | Mod         | [Modrinth](https://modrinth.com/mod/Oe1SVpwg) |
 | No Silk Touch Ender Chest                   | Mod         | [Modrinth](https://modrinth.com/mod/Bya6mfbX) |
-| Noisium                                     | Mod         | [Modrinth](https://modrinth.com/mod/KuNKN7d2) |
 | Not Enough Recipe Book [NERB]               | Mod         | [Modrinth](https://modrinth.com/mod/bQh7xzFq) |
 | OctoLib                                     | Mod         | [Modrinth](https://modrinth.com/mod/RH2KUdKJ) |
 | Text Placeholder API                        | Mod         | [Modrinth](https://modrinth.com/mod/eXts2L7r) |
@@ -172,10 +170,10 @@ Modrinth content in it's latest versions. Managed by `packwiz`.
 | WI Zoom                                     | Mod         | [Modrinth](https://modrinth.com/mod/o7DitHWP) |
 | WorldEdit                                   | Mod         | [Modrinth](https://modrinth.com/mod/1u6JkXh5) |
 | Xaero's World Map                           | Mod         | [Modrinth](https://modrinth.com/mod/NcUtCpym) |
+| 1.20 panorama with shaders (night)          | Texturepack | [Modrinth](https://modrinth.com/mod/HmYNU7gu) |
 | Fast Better Grass                           | Texturepack | [Modrinth](https://modrinth.com/mod/dspVZXKP) |
 | Mob Crates                                  | Texturepack | [Modrinth](https://modrinth.com/mod/bYcjtBki) |
 | New Glowing Ores                            | Texturepack | [Modrinth](https://modrinth.com/mod/oL18adaQ) |
-| Music Re-cued                               | Texturepack | [Modrinth](https://modrinth.com/mod/1YcGoGPE) |
 | 🌙 Night UI - A Dark Themed Resource Pack   | Texturepack | [Modrinth](https://modrinth.com/mod/JEGWvrJj) |
 | Tiny Totem                                  | Texturepack | [Modrinth](https://modrinth.com/mod/rlVZIVlP) |
 
