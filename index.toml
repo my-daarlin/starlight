@@ -6,7 +6,7 @@ hash = "5fa5c0f30f8345e98bdafe9c62649287064c445b29fb25eae08b15c9648e5e01"
 
 [[files]]
 file = "README.md"
-hash = "f8b3c1f0e7af706460fe40c307857508478b92376f59d12d54b6a10add890923"
+hash = "aec2bff34ef628582da8c020d6458d32e5c79e39d95e108057e6d4fa74801940"
 
 [[files]]
 file = "assets/blockbench/icon.bbmodel"
@@ -292,11 +292,6 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "ff700c9ecf4753295cb54a20fd43c3d425998b0908f3725d7c8999f0e150cf3e"
-metafile = true
-
-[[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "8c79da2a9d2f8f4b628afada45a53ab709fa85e821c5c7071ae768ab57685d59"
 metafile = true
 
 [[files]]
@@ -1855,11 +1850,6 @@ hash = "26b47cd5737890a23484d0b8ab49e973c94d8eb55ccea8f46f33b4540e6ca426"
 [[files]]
 file = "resourcepacks/1.20-panorama-with-shaders-(night).pw.toml"
 hash = "e7a1d62dcdd645d2db967c8a775502c6f46e31f2574ca63d091802dea3d51857"
-metafile = true
-
-[[files]]
-file = "resourcepacks/dark-mode-voice-chat.pw.toml"
-hash = "313f79dabe0b695fe2a2f124bdd8b78a773edc2ccf3fac21a962c9e5f63e225a"
 metafile = true
 
 [[files]]
