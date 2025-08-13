@@ -275,11 +275,6 @@ hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
 
 [[files]]
-file = "mods/player-names.pw.toml"
-hash = "db096238ddd5f0fb9e3171c5ece09a4e9f66ab889c7edeb1979cfe6a5ba34edd"
-metafile = true
-
-[[files]]
 file = "mods/redstone-chunk-loader.pw.toml"
 hash = "a027fd345ef6314e9a70e77c2828c1ce2aea258b99c10740def1b1bef3cdabb6"
 metafile = true

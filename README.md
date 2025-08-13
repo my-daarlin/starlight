@@ -156,7 +156,6 @@ Modrinth content in it's latest versions. Managed by `packwiz`.
 | Not Enough Recipe Book [NERB]               | Mod         | [Modrinth](https://modrinth.com/mod/bQh7xzFq) |
 | OctoLib                                     | Mod         | [Modrinth](https://modrinth.com/mod/RH2KUdKJ) |
 | Text Placeholder API                        | Mod         | [Modrinth](https://modrinth.com/mod/eXts2L7r) |
-| Player Names                                | Mod         | [Modrinth](https://modrinth.com/mod/WkByJGKe) |
 | Redstone Chunk Loader                       | Mod         | [Modrinth](https://modrinth.com/mod/FgMkLkj2) |
 | Reese's Sodium Options                      | Mod         | [Modrinth](https://modrinth.com/mod/Bh37bMuy) |
 | Roughly Enough Items (REI)                  | Mod         | [Modrinth](https://modrinth.com/mod/nfn13YXA) |
