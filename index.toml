@@ -250,6 +250,11 @@ hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "230b1f5cd118accacf41f268e122bd420420d9e5248d43513090804739a832f3"
+metafile = true
+
+[[files]]
 file = "mods/no-more-phantoms.pw.toml"
 hash = "d6cd6f92be28a2918ad31b0154d711edaebf433c624e890ecb288fe898309b35"
 metafile = true
@@ -302,6 +307,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "7207bcd8319f1e4b89806c7f909c87acdd3a5f96e5917d859ff704df8ff9a229"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "373bee14263bd8c1b285d93a2793a51c84e34b0d0065a1be7b425c5aac6e8285"
 metafile = true
 
 [[files]]
