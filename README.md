@@ -111,75 +111,71 @@ This is a list of all content included in the modpack with names and source link
 Modrinth content in it's latest versions. Managed by `packwiz`.
 
 <!-- MODLIST_START -->
-
-| Name                                        | Type        | Source                                        |
-| ------------------------------------------- | ----------- | --------------------------------------------- |
-| "Limitless" Banners                         | Mod         | [Modrinth](https://modrinth.com/mod/z4zsMANd) |
-| Architectury API                            | Mod         | [Modrinth](https://modrinth.com/mod/lhGA9TYQ) |
-| BadOptimizations                            | Mod         | [Modrinth](https://modrinth.com/mod/g96Z4WVZ) |
-| Beam Be Gone                                | Mod         | [Modrinth](https://modrinth.com/mod/6B5InQA5) |
-| Concurrent Chunk Management Engine (Fabric) | Mod         | [Modrinth](https://modrinth.com/mod/VSNURh3q) |
-| Carpet                                      | Mod         | [Modrinth](https://modrinth.com/mod/TQTTVgYE) |
-| Clearviews                                  | Mod         | [Modrinth](https://modrinth.com/mod/TwYypE5e) |
-| ClickThrough Plus                           | Mod         | [Modrinth](https://modrinth.com/mod/fJi8nm80) |
-| Cloth Config API                            | Mod         | [Modrinth](https://modrinth.com/mod/9s6osm5g) |
-| Collective                                  | Mod         | [Modrinth](https://modrinth.com/mod/e0M1UDsY) |
-| Continuity                                  | Mod         | [Modrinth](https://modrinth.com/mod/1IjD5062) |
-| Custom LAN                                  | Mod         | [Modrinth](https://modrinth.com/mod/OCvCFPNR) |
-| Dynamic FPS                                 | Mod         | [Modrinth](https://modrinth.com/mod/LQ3K71Q1) |
-| Enhanced Block Entities                     | Mod         | [Modrinth](https://modrinth.com/mod/OVuFYfre) |
-| Enderman Grief                              | Mod         | [Modrinth](https://modrinth.com/mod/LLomXBnX) |
-| Entity Culling                              | Mod         | [Modrinth](https://modrinth.com/mod/NNAgCjsB) |
-| Fabric API                                  | Mod         | [Modrinth](https://modrinth.com/mod/P7dR8mSH) |
-| Fabric Language Kotlin                      | Mod         | [Modrinth](https://modrinth.com/mod/Ha28R6CL) |
-| FancyMenu                                   | Mod         | [Modrinth](https://modrinth.com/mod/Wq5SjeWM) |
-| FerriteCore                                 | Mod         | [Modrinth](https://modrinth.com/mod/uXXizFIs) |
-| FeyTweaks                                   | Mod         | [Modrinth](https://modrinth.com/mod/Wa72oW2W) |
-| Freecam                                     | Mod         | [Modrinth](https://modrinth.com/mod/XeEZ3fK2) |
-| ImmediatelyFast                             | Mod         | [Modrinth](https://modrinth.com/mod/5ZwdcRci) |
-| The Immersive Music Mod                     | Mod         | [Modrinth](https://modrinth.com/mod/EgBj3Bnf) |
-| Inventory Profiles Next                     | Mod         | [Modrinth](https://modrinth.com/mod/O7RBXm3n) |
-| Iris Shaders                                | Mod         | [Modrinth](https://modrinth.com/mod/YL57xq9U) |
-| Jade 🔍                                     | Mod         | [Modrinth](https://modrinth.com/mod/nvQzSEkH) |
-| Konkrete                                    | Mod         | [Modrinth](https://modrinth.com/mod/J81TRJWm) |
-| libIPN                                      | Mod         | [Modrinth](https://modrinth.com/mod/onSQdWhM) |
-| Lighty                                      | Mod         | [Modrinth](https://modrinth.com/mod/yjvKidNM) |
-| Litematica                                  | Mod         | [Modrinth](https://modrinth.com/mod/bEpr0Arc) |
-| Lithium                                     | Mod         | [Modrinth](https://modrinth.com/mod/gvQqBUqZ) |
-| MaLiLib                                     | Mod         | [Modrinth](https://modrinth.com/mod/GcWjdA9I) |
-| Melody                                      | Mod         | [Modrinth](https://modrinth.com/mod/CVT4pFB2) |
-| MiniHUD                                     | Mod         | [Modrinth](https://modrinth.com/mod/UMxybHE8) |
-| ModernFix                                   | Mod         | [Modrinth](https://modrinth.com/mod/nmDcB62a) |
-| Mod Menu                                    | Mod         | [Modrinth](https://modrinth.com/mod/mOgUt4GM) |
-| M.R.U                                       | Mod         | [Modrinth](https://modrinth.com/mod/SNVQ2c0g) |
-| No More Phantoms                            | Mod         | [Modrinth](https://modrinth.com/mod/Oe1SVpwg) |
-| No Silk Touch Ender Chest                   | Mod         | [Modrinth](https://modrinth.com/mod/Bya6mfbX) |
-| Not Enough Recipe Book [NERB]               | Mod         | [Modrinth](https://modrinth.com/mod/bQh7xzFq) |
-| OctoLib                                     | Mod         | [Modrinth](https://modrinth.com/mod/RH2KUdKJ) |
-| Text Placeholder API                        | Mod         | [Modrinth](https://modrinth.com/mod/eXts2L7r) |
-| Redstone Chunk Loader                       | Mod         | [Modrinth](https://modrinth.com/mod/FgMkLkj2) |
-| Reese's Sodium Options                      | Mod         | [Modrinth](https://modrinth.com/mod/Bh37bMuy) |
-| Roughly Enough Items (REI)                  | Mod         | [Modrinth](https://modrinth.com/mod/nfn13YXA) |
-| Shulker Box Tooltip                         | Mod         | [Modrinth](https://modrinth.com/mod/2M01OLQq) |
-| Sodium Extra                                | Mod         | [Modrinth](https://modrinth.com/mod/PtjYWJkn) |
-| Sodium                                      | Mod         | [Modrinth](https://modrinth.com/mod/AANobbMI) |
-| Sound Physics Remastered                    | Mod         | [Modrinth](https://modrinth.com/mod/qyVF9oeo) |
-| Sounds                                      | Mod         | [Modrinth](https://modrinth.com/mod/ZouiUX7t) |
-| Teleport Commands                           | Mod         | [Modrinth](https://modrinth.com/mod/3ne670on) |
-| ThreadTweak                                 | Mod         | [Modrinth](https://modrinth.com/mod/vSEH1ERy) |
-| Tweakeroo                                   | Mod         | [Modrinth](https://modrinth.com/mod/t5wuYk45) |
-| Very Many Players (Fabric)                  | Mod         | [Modrinth](https://modrinth.com/mod/wnEe9KBa) |
-| WI Zoom                                     | Mod         | [Modrinth](https://modrinth.com/mod/o7DitHWP) |
-| WorldEdit                                   | Mod         | [Modrinth](https://modrinth.com/mod/1u6JkXh5) |
-| Xaero's World Map                           | Mod         | [Modrinth](https://modrinth.com/mod/NcUtCpym) |
-| YetAnotherConfigLib (YACL)                  | Mod         | [Modrinth](https://modrinth.com/mod/1eAoo2KR) |
-| 1.20 panorama with shaders (night)          | Texturepack | [Modrinth](https://modrinth.com/mod/HmYNU7gu) |
-| Fast Better Grass                           | Texturepack | [Modrinth](https://modrinth.com/mod/dspVZXKP) |
-| Mob Crates                                  | Texturepack | [Modrinth](https://modrinth.com/mod/bYcjtBki) |
-| New Glowing Ores                            | Texturepack | [Modrinth](https://modrinth.com/mod/oL18adaQ) |
-| 🌙 Night UI - A Dark Themed Resource Pack   | Texturepack | [Modrinth](https://modrinth.com/mod/JEGWvrJj) |
-| Tiny Totem                                  | Texturepack | [Modrinth](https://modrinth.com/mod/rlVZIVlP) |
-
+| Name | Type | Source |
+|------|------|--------|
+| "Limitless" Banners | Mod | [Modrinth](https://modrinth.com/mod/z4zsMANd) |
+| Architectury API | Mod | [Modrinth](https://modrinth.com/mod/lhGA9TYQ) |
+| BadOptimizations | Mod | [Modrinth](https://modrinth.com/mod/g96Z4WVZ) |
+| Beam Be Gone | Mod | [Modrinth](https://modrinth.com/mod/6B5InQA5) |
+| Concurrent Chunk Management Engine (Fabric) | Mod | [Modrinth](https://modrinth.com/mod/VSNURh3q) |
+| Carpet | Mod | [Modrinth](https://modrinth.com/mod/TQTTVgYE) |
+| Clearviews | Mod | [Modrinth](https://modrinth.com/mod/TwYypE5e) |
+| ClickThrough Plus | Mod | [Modrinth](https://modrinth.com/mod/fJi8nm80) |
+| Cloth Config API | Mod | [Modrinth](https://modrinth.com/mod/9s6osm5g) |
+| Collective | Mod | [Modrinth](https://modrinth.com/mod/e0M1UDsY) |
+| Continuity | Mod | [Modrinth](https://modrinth.com/mod/1IjD5062) |
+| Custom LAN | Mod | [Modrinth](https://modrinth.com/mod/OCvCFPNR) |
+| Dynamic FPS | Mod | [Modrinth](https://modrinth.com/mod/LQ3K71Q1) |
+| Enhanced Block Entities | Mod | [Modrinth](https://modrinth.com/mod/OVuFYfre) |
+| Enderman Grief | Mod | [Modrinth](https://modrinth.com/mod/LLomXBnX) |
+| Entity Culling | Mod | [Modrinth](https://modrinth.com/mod/NNAgCjsB) |
+| Fabric API | Mod | [Modrinth](https://modrinth.com/mod/P7dR8mSH) |
+| Fabric Language Kotlin | Mod | [Modrinth](https://modrinth.com/mod/Ha28R6CL) |
+| FancyMenu | Mod | [Modrinth](https://modrinth.com/mod/Wq5SjeWM) |
+| FerriteCore | Mod | [Modrinth](https://modrinth.com/mod/uXXizFIs) |
+| FeyTweaks | Mod | [Modrinth](https://modrinth.com/mod/Wa72oW2W) |
+| Freecam | Mod | [Modrinth](https://modrinth.com/mod/XeEZ3fK2) |
+| ImmediatelyFast | Mod | [Modrinth](https://modrinth.com/mod/5ZwdcRci) |
+| The Immersive Music Mod | Mod | [Modrinth](https://modrinth.com/mod/EgBj3Bnf) |
+| Inventory Profiles Next | Mod | [Modrinth](https://modrinth.com/mod/O7RBXm3n) |
+| Iris Shaders | Mod | [Modrinth](https://modrinth.com/mod/YL57xq9U) |
+| Jade 🔍 | Mod | [Modrinth](https://modrinth.com/mod/nvQzSEkH) |
+| Konkrete | Mod | [Modrinth](https://modrinth.com/mod/J81TRJWm) |
+| libIPN | Mod | [Modrinth](https://modrinth.com/mod/onSQdWhM) |
+| Lighty | Mod | [Modrinth](https://modrinth.com/mod/yjvKidNM) |
+| Litematica | Mod | [Modrinth](https://modrinth.com/mod/bEpr0Arc) |
+| Lithium | Mod | [Modrinth](https://modrinth.com/mod/gvQqBUqZ) |
+| MaLiLib | Mod | [Modrinth](https://modrinth.com/mod/GcWjdA9I) |
+| Melody | Mod | [Modrinth](https://modrinth.com/mod/CVT4pFB2) |
+| MiniHUD | Mod | [Modrinth](https://modrinth.com/mod/UMxybHE8) |
+| ModernFix | Mod | [Modrinth](https://modrinth.com/mod/nmDcB62a) |
+| Mod Menu | Mod | [Modrinth](https://modrinth.com/mod/mOgUt4GM) |
+| No More Phantoms | Mod | [Modrinth](https://modrinth.com/mod/Oe1SVpwg) |
+| No Silk Touch Ender Chest | Mod | [Modrinth](https://modrinth.com/mod/Bya6mfbX) |
+| Not Enough Recipe Book [NERB] | Mod | [Modrinth](https://modrinth.com/mod/bQh7xzFq) |
+| OctoLib | Mod | [Modrinth](https://modrinth.com/mod/RH2KUdKJ) |
+| Text Placeholder API | Mod | [Modrinth](https://modrinth.com/mod/eXts2L7r) |
+| Redstone Chunk Loader | Mod | [Modrinth](https://modrinth.com/mod/FgMkLkj2) |
+| Reese's Sodium Options | Mod | [Modrinth](https://modrinth.com/mod/Bh37bMuy) |
+| Roughly Enough Items (REI) | Mod | [Modrinth](https://modrinth.com/mod/nfn13YXA) |
+| Shulker Box Tooltip | Mod | [Modrinth](https://modrinth.com/mod/2M01OLQq) |
+| Simple Voice Chat | Mod | [Modrinth](https://modrinth.com/mod/9eGKb6K1) |
+| Sodium Extra | Mod | [Modrinth](https://modrinth.com/mod/PtjYWJkn) |
+| Sodium | Mod | [Modrinth](https://modrinth.com/mod/AANobbMI) |
+| Teleport Commands | Mod | [Modrinth](https://modrinth.com/mod/3ne670on) |
+| ThreadTweak | Mod | [Modrinth](https://modrinth.com/mod/vSEH1ERy) |
+| Tweakeroo | Mod | [Modrinth](https://modrinth.com/mod/t5wuYk45) |
+| Very Many Players (Fabric) | Mod | [Modrinth](https://modrinth.com/mod/wnEe9KBa) |
+| WI Zoom | Mod | [Modrinth](https://modrinth.com/mod/o7DitHWP) |
+| WorldEdit | Mod | [Modrinth](https://modrinth.com/mod/1u6JkXh5) |
+| Xaero's World Map | Mod | [Modrinth](https://modrinth.com/mod/NcUtCpym) |
+| 1.20 panorama with shaders (night) | Texturepack | [Modrinth](https://modrinth.com/mod/HmYNU7gu) |
+| Dark Mode Voice Chat | Texturepack | [Modrinth](https://modrinth.com/mod/VJH7P40m) |
+| Fast Better Grass | Texturepack | [Modrinth](https://modrinth.com/mod/dspVZXKP) |
+| Mob Crates | Texturepack | [Modrinth](https://modrinth.com/mod/bYcjtBki) |
+| New Glowing Ores | Texturepack | [Modrinth](https://modrinth.com/mod/oL18adaQ) |
+| 🌙 Night UI - A Dark Themed Resource Pack | Texturepack | [Modrinth](https://modrinth.com/mod/JEGWvrJj) |
+| Tiny Totem | Texturepack | [Modrinth](https://modrinth.com/mod/rlVZIVlP) |
 <!-- MODLIST_END -->
 
 ### 💜 External content
