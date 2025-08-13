@@ -136,12 +136,12 @@ metafile = true
 
 [[files]]
 file = "mods/enderman-grief.pw.toml"
-hash = "f06a1602279653f4425efac39aa0757d916dc469154f9c3ff76aeaf195fab4c4"
+hash = "c139395a11355c1d03a97bc608aafd0e75551331f4dccfe7962c6a0655ccfd7b"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "dcfd69fe4f642597dab1eea5091f6b69c0618e7f8b14b44e67dc5ef9bef7fb73"
+hash = "6a9b4b98f97d594466cb63f91d9f7a960bb008fbeeda4680cc1b312fb2751073"
 metafile = true
 
 [[files]]
@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-more-phantoms.pw.toml"
-hash = "d6cd6f92be28a2918ad31b0154d711edaebf433c624e890ecb288fe898309b35"
+hash = "fc2cb31de25c0af8b26932aec296f1c5bf6909afcb4376c3d6bb0765b06ccb65"
 metafile = true
 
 [[files]]
@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughrecipebook.pw.toml"
-hash = "99addd4953f9187de1e45174f5c10ab42748f743ccaebf74f5405bde5fb441e6"
+hash = "bfd571ae8e997f4d3716aa70aea7ab478c68ffc351325233429ce452854a14bc"
 metafile = true
 
 [[files]]
@@ -351,7 +351,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "8d95879fa57a927317ac19e1de091366d11c1db1f100011af2f087a98325078e"
+hash = "930c62a2d832d9b9dac1637a89265415007eba0033e84cbc1b9b80bd6f483554"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "85e218135c26643e5802980d2f0bad5f6229e96d5231471f5a1b249520e7e8b3"
 metafile = true
 
 [[files]]
@@ -1884,7 +1889,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/night-ui.pw.toml"
-hash = "cd643baf5c9ef6cf31d3526fa4ca328560596f2b5b83ec5a2eec93106889d202"
+hash = "50974ff7259fc04dea4d3d9812108e872b0ad041c4f552a981aa9c052636870c"
 metafile = true
 
 [[files]]

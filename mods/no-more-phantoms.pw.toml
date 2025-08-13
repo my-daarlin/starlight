@@ -1,13 +1,13 @@
 name = "No More Phantoms"
-filename = "no-more-phantoms-1.0.2.jar"
+filename = "no-more-phantoms-1.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Oe1SVpwg/versions/XwILPyae/no-more-phantoms-1.0.2.jar"
+url = "https://cdn.modrinth.com/data/Oe1SVpwg/versions/UnuNva2v/no-more-phantoms-1.0.3.jar"
 hash-format = "sha512"
-hash = "dbdaff932e60fe766f26b8cd50fac2cff0b1b7b4e4d28ada0955d4d9f9b1958d281097d7f2c9c3766ce94dc91b4ff9d33d1b294cfed129060843379795ab681d"
+hash = "fcc2d1d9abd5cc4f082e6791b5dc9afe797ec059d031f707a24aef3f336222317759282f3ee18f333f836e33d32e3920994307e2b1952a3e9d245797032572fd"
 
 [update]
 [update.modrinth]
 mod-id = "Oe1SVpwg"
-version = "XwILPyae"
+version = "UnuNva2v"
