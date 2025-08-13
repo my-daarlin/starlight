@@ -6,7 +6,7 @@ hash = "5fa5c0f30f8345e98bdafe9c62649287064c445b29fb25eae08b15c9648e5e01"
 
 [[files]]
 file = "README.md"
-hash = "aec2bff34ef628582da8c020d6458d32e5c79e39d95e108057e6d4fa74801940"
+hash = "75b3e15a2381f58e4b7eef99d2a67536371c816a47abecdeb1a835911858f076"
 
 [[files]]
 file = "assets/blockbench/icon.bbmodel"
@@ -257,16 +257,6 @@ metafile = true
 [[files]]
 file = "mods/no-silk-touch-ender-chest.pw.toml"
 hash = "d1afacb59e06bdc45974200cce333f8acafbd3043f178a242c6a340edb91eb81"
-metafile = true
-
-[[files]]
-file = "mods/notenoughrecipebook.pw.toml"
-hash = "bfd571ae8e997f4d3716aa70aea7ab478c68ffc351325233429ce452854a14bc"
-metafile = true
-
-[[files]]
-file = "mods/octo-lib.pw.toml"
-hash = "32ff59758677de9b6b6d6bdd80624b81aa208dfb6f7a7bbd0b3ba951a386c52a"
 metafile = true
 
 [[files]]
@@ -1809,7 +1799,7 @@ hash = "dd7ba345f866f7dca08995d7944dd0dc2b30b188acd6bf15d9b250b5c0d2269f"
 
 [[files]]
 file = "overrides/options.txt"
-hash = "aebc4c1dc948abac325041cd9eb9997b4aa84e2bcdc47c48042bf643d31b0fcd"
+hash = "daf74af3d804053f6650db2995e65db33e4ab0c92af6becda275294c3b79aa36"
 
 [[files]]
 file = "overrides/resourcepacks/NoVillagerIdleSounds121.zip"
