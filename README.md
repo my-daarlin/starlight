@@ -151,6 +151,7 @@ Modrinth content in it's latest versions. Managed by `packwiz`.
 | MiniHUD                                     | Mod         | [Modrinth](https://modrinth.com/mod/UMxybHE8) |
 | ModernFix                                   | Mod         | [Modrinth](https://modrinth.com/mod/nmDcB62a) |
 | Mod Menu                                    | Mod         | [Modrinth](https://modrinth.com/mod/mOgUt4GM) |
+| M.R.U                                       | Mod         | [Modrinth](https://modrinth.com/mod/SNVQ2c0g) |
 | No More Phantoms                            | Mod         | [Modrinth](https://modrinth.com/mod/Oe1SVpwg) |
 | No Silk Touch Ender Chest                   | Mod         | [Modrinth](https://modrinth.com/mod/Bya6mfbX) |
 | Not Enough Recipe Book [NERB]               | Mod         | [Modrinth](https://modrinth.com/mod/bQh7xzFq) |
@@ -162,6 +163,8 @@ Modrinth content in it's latest versions. Managed by `packwiz`.
 | Shulker Box Tooltip                         | Mod         | [Modrinth](https://modrinth.com/mod/2M01OLQq) |
 | Sodium Extra                                | Mod         | [Modrinth](https://modrinth.com/mod/PtjYWJkn) |
 | Sodium                                      | Mod         | [Modrinth](https://modrinth.com/mod/AANobbMI) |
+| Sound Physics Remastered                    | Mod         | [Modrinth](https://modrinth.com/mod/qyVF9oeo) |
+| Sounds                                      | Mod         | [Modrinth](https://modrinth.com/mod/ZouiUX7t) |
 | Teleport Commands                           | Mod         | [Modrinth](https://modrinth.com/mod/3ne670on) |
 | ThreadTweak                                 | Mod         | [Modrinth](https://modrinth.com/mod/vSEH1ERy) |
 | Tweakeroo                                   | Mod         | [Modrinth](https://modrinth.com/mod/t5wuYk45) |
