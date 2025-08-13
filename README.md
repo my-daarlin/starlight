@@ -153,14 +153,11 @@ Modrinth content in it's latest versions. Managed by `packwiz`.
 | Mod Menu                                    | Mod         | [Modrinth](https://modrinth.com/mod/mOgUt4GM) |
 | No More Phantoms                            | Mod         | [Modrinth](https://modrinth.com/mod/Oe1SVpwg) |
 | No Silk Touch Ender Chest                   | Mod         | [Modrinth](https://modrinth.com/mod/Bya6mfbX) |
-| Not Enough Recipe Book [NERB]               | Mod         | [Modrinth](https://modrinth.com/mod/bQh7xzFq) |
-| OctoLib                                     | Mod         | [Modrinth](https://modrinth.com/mod/RH2KUdKJ) |
 | Text Placeholder API                        | Mod         | [Modrinth](https://modrinth.com/mod/eXts2L7r) |
 | Redstone Chunk Loader                       | Mod         | [Modrinth](https://modrinth.com/mod/FgMkLkj2) |
 | Reese's Sodium Options                      | Mod         | [Modrinth](https://modrinth.com/mod/Bh37bMuy) |
 | Roughly Enough Items (REI)                  | Mod         | [Modrinth](https://modrinth.com/mod/nfn13YXA) |
 | Shulker Box Tooltip                         | Mod         | [Modrinth](https://modrinth.com/mod/2M01OLQq) |
-| Simple Voice Chat                           | Mod         | [Modrinth](https://modrinth.com/mod/9eGKb6K1) |
 | Sodium Extra                                | Mod         | [Modrinth](https://modrinth.com/mod/PtjYWJkn) |
 | Sodium                                      | Mod         | [Modrinth](https://modrinth.com/mod/AANobbMI) |
 | Teleport Commands                           | Mod         | [Modrinth](https://modrinth.com/mod/3ne670on) |
@@ -171,7 +168,6 @@ Modrinth content in it's latest versions. Managed by `packwiz`.
 | WorldEdit                                   | Mod         | [Modrinth](https://modrinth.com/mod/1u6JkXh5) |
 | Xaero's World Map                           | Mod         | [Modrinth](https://modrinth.com/mod/NcUtCpym) |
 | 1.20 panorama with shaders (night)          | Texturepack | [Modrinth](https://modrinth.com/mod/HmYNU7gu) |
-| Dark Mode Voice Chat                        | Texturepack | [Modrinth](https://modrinth.com/mod/VJH7P40m) |
 | Fast Better Grass                           | Texturepack | [Modrinth](https://modrinth.com/mod/dspVZXKP) |
 | Mob Crates                                  | Texturepack | [Modrinth](https://modrinth.com/mod/bYcjtBki) |
 | New Glowing Ores                            | Texturepack | [Modrinth](https://modrinth.com/mod/oL18adaQ) |
