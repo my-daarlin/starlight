@@ -172,6 +172,7 @@ Modrinth content in it's latest versions. Managed by `packwiz`.
 | WI Zoom                                     | Mod         | [Modrinth](https://modrinth.com/mod/o7DitHWP) |
 | WorldEdit                                   | Mod         | [Modrinth](https://modrinth.com/mod/1u6JkXh5) |
 | Xaero's World Map                           | Mod         | [Modrinth](https://modrinth.com/mod/NcUtCpym) |
+| YetAnotherConfigLib (YACL)                  | Mod         | [Modrinth](https://modrinth.com/mod/1eAoo2KR) |
 | 1.20 panorama with shaders (night)          | Texturepack | [Modrinth](https://modrinth.com/mod/HmYNU7gu) |
 | Fast Better Grass                           | Texturepack | [Modrinth](https://modrinth.com/mod/dspVZXKP) |
 | Mob Crates                                  | Texturepack | [Modrinth](https://modrinth.com/mod/bYcjtBki) |
