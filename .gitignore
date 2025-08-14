@@ -15,11 +15,6 @@ Icon?
 # Export files
 *.mrpack
 
-# IDE files
-.vscode/
-.idea/
-*.iml
-
 # Python
 .venv/
 
