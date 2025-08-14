@@ -109,11 +109,6 @@ hash = "7167d442d5704438f8491ba69efa1c92d5719370bf63eea2c94ef4e12fbf6265"
 metafile = true
 
 [[files]]
-file = "mods/feytweaks.pw.toml"
-hash = "c000a1bb7a7a3381cadc48a5241fe57a397496aad5730f8168b1c4263bb5d1c9"
-metafile = true
-
-[[files]]
 file = "mods/freecam.pw.toml"
 hash = "518e512a141b3b331ecaafaf315a9636f9eadf211c0df39395109e8dbf588a54"
 metafile = true
@@ -206,11 +201,6 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
-metafile = true
-
-[[files]]
-file = "mods/redstone-chunk-loader.pw.toml"
-hash = "a027fd345ef6314e9a70e77c2828c1ce2aea258b99c10740def1b1bef3cdabb6"
 metafile = true
 
 [[files]]
