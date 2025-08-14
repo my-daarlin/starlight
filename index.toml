@@ -9,62 +9,6 @@ file = "README.md"
 hash = "75b3e15a2381f58e4b7eef99d2a67536371c816a47abecdeb1a835911858f076"
 
 [[files]]
-file = "assets/blockbench/icon.bbmodel"
-hash = "b8a68d898d73600e6845aa3ef0d07caf9c0f7d1bbb82ade68b0cb431c8e2a013"
-
-[[files]]
-file = "assets/blockbench/starlight-pro.bbmodel"
-hash = "ed40526ac7420284e7ccb649af3189146431d04e127a65ff073340eacbbf70cb"
-
-[[files]]
-file = "assets/blockbench/starlight.bbmodel"
-hash = "34a9842065f3d27992e122fceedd2f018a5836a3a51dfed286a982ce7f1ff918"
-
-[[files]]
-file = "assets/icon.png"
-hash = "3a2cc68ca0036b227b0549fbbad49203771664a98a29f2f943938716f7bb2c0c"
-
-[[files]]
-file = "assets/screenshots/game-day.png"
-hash = "e167a6794f2ffd64636aa9795540296fe97d5a837813b84b590daed38e772510"
-
-[[files]]
-file = "assets/screenshots/game-night.png"
-hash = "334f0cff8013074fc78c81119945cf85336a959e551e843d5684665bec766bd4"
-
-[[files]]
-file = "assets/screenshots/inventory.png"
-hash = "4920e6d52bec2c6c3f0ab440ca8baa9ba0292be313ffd10dfc7ddbc15226f8e3"
-
-[[files]]
-file = "assets/screenshots/low-res/game-day.jpg"
-hash = "896552cca31d78da5f64d06f667e45e78c3109316857f7fed52d74305a8fb2e0"
-
-[[files]]
-file = "assets/screenshots/low-res/game-night.jpg"
-hash = "12d7d5773d32e0b6093a9a7c900fd981d2171347da3ce5b2ee1865b09db440eb"
-
-[[files]]
-file = "assets/screenshots/low-res/inventory.jpg"
-hash = "53069f2db3bb5f4225afdd2176d3d169a1d5d0cb635ec7a9acc06a0eec255878"
-
-[[files]]
-file = "assets/screenshots/low-res/menu.jpg"
-hash = "20f28f53a3602ce4fe3d53d6a71645a11b95335d435c7c8f9aa2bdc34d9f3dc4"
-
-[[files]]
-file = "assets/screenshots/menu.png"
-hash = "e750ca465f00e2e0a6b4d28b1582cf99c0bcf4ee0eaf06ceb012157b708db60b"
-
-[[files]]
-file = "assets/starlight-pro.png"
-hash = "b2793ce64645b2a0c0febd0ef823444cfd98e1d986c5628e4ff90951e5343d89"
-
-[[files]]
-file = "assets/starlight.png"
-hash = "7cad1903e6d1a0ea7194f604a241adc2df419d56a4c7d832e60288f68d1d752b"
-
-[[files]]
 file = "mods/\"limitless\"-banners.pw.toml"
 hash = "ebda8feddad218ac7b2158b8a681bb05668b710c5bfd05abfebabdf6a812681d"
 metafile = true
@@ -382,10 +326,6 @@ file = "overrides/config/dynamic_fps.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
-file = "overrides/config/dynamiclights.json"
-hash = "04865e6dc39689c0fe8276cc993bb172d17699a3484b4edfdaf001dd6c9c070a"
-
-[[files]]
 file = "overrides/config/enhanced_bes.properties"
 hash = "b6dde1d0cffd7070d9ccfaf4b3f0f1c813d1a039af4f605fbc26118b6da89cb8"
 
@@ -404,14 +344,6 @@ hash = "d25288e4c9bf7bfd5824d61c0aa89a2acf4090eae60aba4026ec1fc098bcb631"
 [[files]]
 file = "overrides/config/etf_warnings.json"
 hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
-
-[[files]]
-file = "overrides/config/expanded_bow_enchanting.json"
-hash = "256a425ed047368b0719dd8ea30428ee15515125e5ef5db3e2c20b71992a0b68"
-
-[[files]]
-file = "overrides/config/expanded_trident_enchanting.json"
-hash = "3d6ba6a3134c2eefc9dce5961a601a8164ff0327ec09e04b677074c373f25f83"
 
 [[files]]
 file = "overrides/config/fabric/indigo-renderer.properties"
@@ -460,10 +392,6 @@ hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
 [[files]]
 file = "overrides/config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
-
-[[files]]
-file = "overrides/config/fastquit.toml"
-hash = "de22af584433dfdfb4a14b85091bfbd5c6be697a306499c2d7c75740658dbad4"
 
 [[files]]
 file = "overrides/config/ferritecore.mixin.properties"
@@ -918,10 +846,6 @@ file = "overrides/config/midnightlib.json"
 hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
 
 [[files]]
-file = "overrides/config/minieffects-client.yaml"
-hash = "c747cc3ba78926eeab66e88c4a5b0d974cfe436d5a8c297c54157348c38d3d15"
-
-[[files]]
 file = "overrides/config/minihud.json"
 hash = "f104c23c218bd92dc14f03b0b74f1aeb331a48415c5a3446efc9dee6d0fb449b"
 
@@ -1108,10 +1032,6 @@ hash = "d5b0086101de9016d436e8236e3d48c8ca95e3e87855ca80a1d56178bfba000d"
 [[files]]
 file = "overrides/config/moreculling.toml"
 hash = "cf2c05d78f813bd0e70b8a1899d974ffc2459422392f3fd344c5ce1039665635"
-
-[[files]]
-file = "overrides/config/nerb.yaml"
-hash = "dceda831a1a2585df3fb5f3baae348eb43a7179ced0609a8a47869dfb0243d71"
 
 [[files]]
 file = "overrides/config/offlineskins.json"
