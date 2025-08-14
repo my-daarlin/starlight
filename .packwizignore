@@ -1,32 +1,31 @@
-# macOS system files
-.DS_Store
-.AppleDouble
-.LSOverride
-Icon?
+# MacOS
 ._*
-
-# macOS Finder and trash
-.Spotlight-V100
+Icon?
 .Trashes
-
-# GitHub & logs
-*.log
-
-# Export files
-*.mrpack
+.DS_Store
+.LSOverride
+.AppleDouble
+.Spotlight-V100
 
 # IDE files
 .vscode/
-.idea/
-*.iml
 
-# Generated files (by scripts)
+# Python
+*.py
+.venv/
+requirements.txt
+
+# Generated files
 generated/
 
 # Scripts
-scripts/
-.github/
 *.sh
+scripts/
 
-# GitHub Repo Asset files
+# Github
+.github/
+.gitignore
+.gitattributes
+
+# Asset files
 public/
