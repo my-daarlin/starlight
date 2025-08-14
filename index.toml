@@ -144,6 +144,11 @@ hash = "34d75daff8b8260780d97bbc2dc545739399df1d5ac304eeb2f80e23354cf3af"
 metafile = true
 
 [[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "8c6b70c5687944d95858a7da9311a268725bc613e1d0f10dae4687faf9fb7ad5"
+metafile = true
+
+[[files]]
 file = "mods/libipn.pw.toml"
 hash = "d9c37a782ab3fccc43ed846018033e4cb3f487ec37cb5d67c012da4f61ca771f"
 metafile = true
