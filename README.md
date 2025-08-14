@@ -141,6 +141,7 @@ Modrinth content in it's latest versions. Managed by `packwiz`.
 | Iris Shaders                                | Mod         | [Modrinth](https://modrinth.com/mod/YL57xq9U) |
 | Jade 🔍                                     | Mod         | [Modrinth](https://modrinth.com/mod/nvQzSEkH) |
 | Konkrete                                    | Mod         | [Modrinth](https://modrinth.com/mod/J81TRJWm) |
+| Ksyxis                                      | Mod         | [Modrinth](https://modrinth.com/mod/2ecVyZ49) |
 | libIPN                                      | Mod         | [Modrinth](https://modrinth.com/mod/onSQdWhM) |
 | Lighty                                      | Mod         | [Modrinth](https://modrinth.com/mod/yjvKidNM) |
 | Litematica                                  | Mod         | [Modrinth](https://modrinth.com/mod/bEpr0Arc) |
