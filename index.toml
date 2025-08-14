@@ -199,8 +199,8 @@ hash = "fc2cb31de25c0af8b26932aec296f1c5bf6909afcb4376c3d6bb0765b06ccb65"
 metafile = true
 
 [[files]]
-file = "mods/no-silk-touch-ender-chest.pw.toml"
-hash = "d1afacb59e06bdc45974200cce333f8acafbd3043f178a242c6a340edb91eb81"
+file = "mods/nofortunechest.pw.toml"
+hash = "be68d4af462864e5949199c870dc0b4f0500da3ba85088f8f7ea365a830a4878"
 metafile = true
 
 [[files]]
