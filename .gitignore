@@ -20,5 +20,8 @@ Icon?
 .idea/
 *.iml
 
+# Python
+.venv/
+
 # Generated files (by scripts)
 generated/
