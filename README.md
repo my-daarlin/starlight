@@ -10,9 +10,9 @@
     <a href="https://fabricmc.net/">
         <img src="https://img.shields.io/badge/Fabric-0.16.14-blueviolet?logo=fabric&logoColor=white" alt="Fabric Version">
     </a>
-    <a href="https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21">
-        <img src="https://img.shields.io/badge/Minecraft-1.21-green?logo=minecraft" alt="Minecraft">
-    </a>
+    <a href="https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-4">
+        <img src="https://img.shields.io/badge/Minecraft-1.21.4-green?logo=minecraft" alt="Minecraft">
+        </a>
     <a href="https://modrinth.com/project/kWqlGiOE">
         <img src="https://img.shields.io/badge/Modrinth-Published-5da545?logo=modrinth&logoColor=white" alt="Modrinth">
     </a>
