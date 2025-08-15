@@ -1,0 +1,9 @@
+{
+	"modEnabled": true,
+	"warningEnabled": true,
+	"warningMessage": "No Silk Touch!",
+	"warningColor": 14168806,
+	"titleEnabled": false,
+	"titleMessage": "Warning: you are holding a non Silk Touch pickaxe",
+	"titleColor": 14168806
+}

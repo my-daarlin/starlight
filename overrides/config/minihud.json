@@ -104,6 +104,7 @@
   "Generic": {
     "axolotlTooltips": false,
     "beeTooltips": false,
+    "disableVanillaBeeTooltips": false,
     "bundleTooltips": true,
     "bundleTooltipsFillLevel": 64,
     "customModelTooltips": false,
@@ -506,6 +507,7 @@
     "§6debugNeighborsUpdateEnabled§r": false,
     "§6debugGameEventsEnabled§r": false,
     "§6debugGoalSelectorEnabled§r": false,
+    "debugOctreeEnabled": false,
     "§6debugPathfindingEnabled§r": false,
     "§6debugRaidCenterEnabled§r": false,
     "debugSkylightEnabled": false,
@@ -603,6 +605,9 @@
       "keys": ""
     },
     "§6debugGoalSelectorEnabled§r": {
+      "keys": ""
+    },
+    "debugOctreeEnabled": {
       "keys": ""
     },
     "§6debugPathfindingEnabled§r": {

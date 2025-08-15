@@ -1,13 +1,13 @@
 name = "Mob Crates"
-filename = "MobCrates_1.21_v1.zip"
+filename = "MobCrates_1.21.4_v2.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/bYcjtBki/versions/2516VXh2/MobCrates_1.21_v1.zip"
+url = "https://cdn.modrinth.com/data/bYcjtBki/versions/jIueDCKF/MobCrates_1.21.4_v2.zip"
 hash-format = "sha512"
-hash = "18d0996701b4085fa85592d0ef30a01723677d0b532b95dfd121a6f3d2567568098654951da75e7b0f14c9c79d967a0bc0237ac0777b0de23aa3568136c87179"
+hash = "ac32e2885e276de8c450458516583ed5dbd48fb5fcfdfadf160ecf01ce1e42d8b508cf25047b533a1a8e3b365e348b0de9de5c8a3e3f75e59ccce7a684b5d9d3"
 
 [update]
 [update.modrinth]
 mod-id = "bYcjtBki"
-version = "2516VXh2"
+version = "jIueDCKF"

@@ -6,6 +6,12 @@
     "openGuiConfigs": {
       "keys": ""
     },
+    "enableActionbarMessages": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
     "actionbarHudTicks": 60,
     "inGameMessageTimeout": 5.0,
     "enableConfigSwitcher": {

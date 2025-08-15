@@ -153,6 +153,7 @@ Modrinth content in it's latest versions. Managed by `packwiz`.
 | Mod Menu                                    | Mod         | [Modrinth](https://modrinth.com/mod/mOgUt4GM) |
 | No More Phantoms                            | Mod         | [Modrinth](https://modrinth.com/mod/Oe1SVpwg) |
 | No Fortune Chest                            | Mod         | [Modrinth](https://modrinth.com/mod/4QufRNTv) |
+| NoRecipeBook                                | Mod         | [Modrinth](https://modrinth.com/mod/TvL1V8O5) |
 | Text Placeholder API                        | Mod         | [Modrinth](https://modrinth.com/mod/eXts2L7r) |
 | Reese's Sodium Options                      | Mod         | [Modrinth](https://modrinth.com/mod/Bh37bMuy) |
 | Roughly Enough Items (REI)                  | Mod         | [Modrinth](https://modrinth.com/mod/nfn13YXA) |
@@ -167,11 +168,11 @@ Modrinth content in it's latest versions. Managed by `packwiz`.
 | WorldEdit                                   | Mod         | [Modrinth](https://modrinth.com/mod/1u6JkXh5) |
 | Xaero's World Map                           | Mod         | [Modrinth](https://modrinth.com/mod/NcUtCpym) |
 | 1.20 panorama with shaders (night)          | Texturepack | [Modrinth](https://modrinth.com/mod/HmYNU7gu) |
+| Small Totem                                 | Texturepack | [Modrinth](https://modrinth.com/mod/O1D0aeBl) |
 | Fast Better Grass                           | Texturepack | [Modrinth](https://modrinth.com/mod/dspVZXKP) |
 | Mob Crates                                  | Texturepack | [Modrinth](https://modrinth.com/mod/bYcjtBki) |
 | New Glowing Ores                            | Texturepack | [Modrinth](https://modrinth.com/mod/oL18adaQ) |
 | 🌙 Night UI - A Dark Themed Resource Pack   | Texturepack | [Modrinth](https://modrinth.com/mod/JEGWvrJj) |
-| Tiny Totem                                  | Texturepack | [Modrinth](https://modrinth.com/mod/rlVZIVlP) |
 
 <!-- MODLIST_END -->
 

@@ -1,13 +1,13 @@
 name = "Custom LAN"
-filename = "custom-lan-1.21-1.21.1-v2.3.2.jar"
+filename = "custom-lan-1.21.4-1.21.4-v2.3.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/OCvCFPNR/versions/asKMD5Pp/custom-lan-1.21-1.21.1-v2.3.2.jar"
+url = "https://cdn.modrinth.com/data/OCvCFPNR/versions/PWPfd0A3/custom-lan-1.21.4-1.21.4-v2.3.2.jar"
 hash-format = "sha512"
-hash = "b2d296c1d34d68e26b4ee8426b1731c1e5aaec450673fbe95325408efded97f1c7821bc487d1edff71e179ff8f83383718578d6e5ffb44322b3f29691a2a638e"
+hash = "89b367934fb512231b688cdf4a2ff590e3791ec987e493300729879495dba280a66066b216b9cda3881327a806c0aeec28028fe1969fe789a129512979bd34ab"
 
 [update]
 [update.modrinth]
 mod-id = "OCvCFPNR"
-version = "asKMD5Pp"
+version = "PWPfd0A3"

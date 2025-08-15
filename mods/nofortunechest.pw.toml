@@ -1,13 +1,13 @@
 name = "No Fortune Chest"
-filename = "NoFortuneChest-1.0.2+1.21.jar"
+filename = "NoFortuneChest-1.0.3+1.21.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4QufRNTv/versions/45oxzQZc/NoFortuneChest-1.0.2%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/4QufRNTv/versions/CcQtwhNh/NoFortuneChest-1.0.3%2B1.21.4.jar"
 hash-format = "sha512"
-hash = "672b1dc315319b9eb5606cc7226a8672a7d92fe7c26d4cccd7d85c4d6b151852dce78320f520d0c96626e4a89083e669ff381629744af349d548a4083d066c63"
+hash = "684ac31c723a52bc904f1c3bbd4c71155e3dda9deb5b89a80ce47a6af233ea0824c5b09f8eacfe4bad1c0ddb5f28bf9aed0579fb4182752f73a3537559468dcc"
 
 [update]
 [update.modrinth]
 mod-id = "4QufRNTv"
-version = "45oxzQZc"
+version = "CcQtwhNh"

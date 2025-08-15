@@ -1,0 +1,13 @@
+name = "Small Totem"
+filename = "Small Totem.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/O1D0aeBl/versions/kFlEAl1A/Small%20Totem.zip"
+hash-format = "sha512"
+hash = "f2e6360dc9455999e9cfdaa8fab602bbd10a1628eb3126e4f609da5a998ae88a7be91539d19ac93d2c326fd99f0ca5d614a4205aaaec06ecc26edbf9e538085a"
+
+[update]
+[update.modrinth]
+mod-id = "O1D0aeBl"
+version = "kFlEAl1A"

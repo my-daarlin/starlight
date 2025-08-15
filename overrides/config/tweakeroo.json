@@ -1,7 +1,7 @@
 {
   "Fixes": {
     "stackableShulkersInHopperFix": true,
-    "elytraFix": false,
+    "elytraSprintCancel": false,
     "macHorizontalScroll": false,
     "ravagerClientBlockBreakFix": false
   },
