@@ -13,7 +13,7 @@
     <a href="https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-4">
         <img src="https://img.shields.io/badge/Minecraft-1.21.4-green?logo=minecraft" alt="Minecraft">
         </a>
-    <a href="https://modrinth.com/project/kWqlGiOE">
+    <a href="https://modrinth.com/modpack/starlightmodpack">
         <img src="https://img.shields.io/badge/Modrinth-Published-5da545?logo=modrinth&logoColor=white" alt="Modrinth">
     </a>
     <a href="https://packwiz.infra.link/">
