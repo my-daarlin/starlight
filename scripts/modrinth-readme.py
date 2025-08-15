@@ -10,7 +10,7 @@ cleaned_content = re.sub(
     flags=re.DOTALL,
 )
 
-output_path = "assets/README-modrinth.md"
+output_path = "public/README-modrinth.md"
 with open(output_path, "w", encoding="utf-8") as modrinth_file:
     modrinth_file.write(cleaned_content)
 

@@ -17,7 +17,7 @@ jobs:
           python-version: 3.x
 
       - name: Clean README
-        run: python scripts/clean-readme.py
+        run: python scripts/modrinth_readme.py
 
       - name: Upload cleaned README to Modrinth
         run: |
