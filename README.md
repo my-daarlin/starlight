@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/my-daarlin/starlight/blob/main/assets/starlight.png?raw=true" alt="Starlight Banner" width="80%">
+  <img src="https://github.com/my-daarlin/starlight/blob/main/public/starlight.png?raw=true" alt="Starlight Banner" width="80%">
 </p>
 
 <!-- MODRINTH_REMOVE_START -->
@@ -203,12 +203,12 @@ _(Coming soon – will include how much fps it gets where)_
 ## 📸 Screenshots
 
 <p align="center">
-    <img src="./assets/screenshots/menu.png" alt="Menu Screenshot" width="49%">
-    <img src="./assets/screenshots/inventory.png" alt="Inventory Screenshot" width="49%">
+    <img src="./public/screenshots/menu.png" alt="Menu Screenshot" width="49%">
+    <img src="./public/screenshots/inventory.png" alt="Inventory Screenshot" width="49%">
 </p>
 <p align="center">
-    <img src="./assets/screenshots/game-day.png" alt="Game Day Screenshot" width="49%">
-    <img src="./assets/screenshots/game-night.png" alt="Game Night Screenshot" width="49%">
+    <img src="./public/screenshots/game-day.png" alt="Game Day Screenshot" width="49%">
+    <img src="./public/screenshots/game-night.png" alt="Game Night Screenshot" width="49%">
 </p>
 
 <!-- MODRINTH_REMOVE_END -->
