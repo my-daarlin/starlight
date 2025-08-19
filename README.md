@@ -10,15 +10,15 @@
 
 <br>
 
-This modpack is built to feel like **Minecraft, but smoother and faster** — a seamless blend of vanilla fidelity and technical power.
+This modpack is built to feel like **Minecraft, but smoother and faster** - a seamless blend of vanilla fidelity and technical power.
 
 ### ✨ Features:
 
-- ⚙️ **Performance** — powered by mods like Sodium, Lithium, and FerriteCore for a lightweight, high-FPS experience
-- 🧠 **Technical utility** — includes tools like Carpet, MiniHUD, WorldEdit, and others for redstoners and world builders
-- 💖 **Quality of life** — better UI, tooltips, world maps, and helpful tweaks without disrupting the vanilla flow
+- ⚙️ **Performance** - powered by mods like Sodium, Lithium, and FerriteCore for a lightweight, high-FPS experience
+- 🧠 **Technical utility** - includes tools like Carpet, MiniHUD, WorldEdit, and others for redstoners and world builders
+- 💖 **Quality of life** - better UI, tooltips, world maps, and helpful tweaks without disrupting the vanilla flow
 
-🎨 Designed to stay **true to vanilla**, while offering subtle enhancements for players who want more — without _feeling_ like a modded pack.
+🎨 Designed to stay **true to vanilla**, while offering subtle enhancements for players who want more - without _feeling_ like a modded pack.
 
 <!-- MODRINTH_REMOVE_START -->
 
