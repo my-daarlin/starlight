@@ -2,27 +2,13 @@
   <img src="https://github.com/my-daarlin/starlight/blob/main/public/starlight.png?raw=true" alt="Starlight Banner" width="80%">
 </p>
 
-<!-- MODRINTH_REMOVE_START -->
-<!-- <h1 align="center">𝙎𝙏𝘼𝙍𝙇𝙄𝙂𝙃𝙏</h1> -->
-<!-- MODRINTH_REMOVE_END -->
+<br>
 
 <p align="center">
-    <a href="https://fabricmc.net/">
-        <img src="https://img.shields.io/badge/Fabric-0.16.14-blueviolet?logo=fabric&logoColor=white" alt="Fabric Version">
-    </a>
-    <a href="https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-4">
-        <img src="https://img.shields.io/badge/Minecraft-1.21.4-green?logo=minecraft" alt="Minecraft">
-        </a>
-    <a href="https://modrinth.com/modpack/starlightmodpack">
-        <img src="https://img.shields.io/badge/Modrinth-Published-5da545?logo=modrinth&logoColor=white" alt="Modrinth">
-    </a>
-    <a href="https://packwiz.infra.link/">
-        <img src="https://img.shields.io/badge/built%20with-packwiz-9146ff?logo=go&logoColor=white" alt="Packwiz">
-    </a>
-    <a href="https://github.com/my-daarlin/starlight">
-        <img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white" alt="GitHub">
-    </a>
+  <a href="https://fabricmc.net/"><img src="https://img.shields.io/badge/Fabric-0.16.14-blueviolet?logo=fabric&logoColor=white" alt="Fabric Version"></a> <a href="https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-4"><img src="https://img.shields.io/badge/Minecraft-1.21.4-green?logo=minecraft" alt="Minecraft"></a> <a href="https://modrinth.com/modpack/starlightmodpack"><img src="https://img.shields.io/badge/Modrinth-Published-5da545?logo=modrinth&logoColor=white" alt="Modrinth"></a> <a href="https://packwiz.infra.link/"><img src="https://img.shields.io/badge/built%20with-packwiz-9146ff?logo=go&logoColor=white" alt="Packwiz"></a> <a href="https://github.com/my-daarlin/starlight"><img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white" alt="GitHub"></a>
 </p>
+
+<br>
 
 This modpack is built to feel like **Minecraft, but smoother and faster** — a seamless blend of vanilla fidelity and technical power.
 
