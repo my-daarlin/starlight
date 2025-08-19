@@ -3,7 +3,7 @@
 </p>
 
 <!-- MODRINTH_REMOVE_START -->
-<h1 align="center">𝙎𝙏𝘼𝙍𝙇𝙄𝙂𝙃𝙏</h1>
+<!-- <h1 align="center">𝙎𝙏𝘼𝙍𝙇𝙄𝙂𝙃𝙏</h1> -->
 <!-- MODRINTH_REMOVE_END -->
 
 <p align="center">
