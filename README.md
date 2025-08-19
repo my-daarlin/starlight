@@ -24,7 +24,7 @@ This modpack is built to feel like **Minecraft, but smoother and faster** - a se
 
 ## 📦 Installation
 
-### 💚 [Modrinth Launcher](https://modrinth.com/app) (Recommended)
+### 💚 [Modrinth Launcher](https://modrinth.com/app)
 
 1. Search for **Starlight**, or visit [the website](https://modrinth.com/project/kWqlGiOE)
 2. Click **Install**
@@ -190,6 +190,35 @@ This will include:
 - Everything from the `overrides/` folder (config, resourcepacks, etc.)
 - Anything else in the repository not included in the `.packwizignore` file
 
+### Changing the modpack to a different version
+
+To change the modpack to a diffeent version of Minecraft, firts run the `test-update.py` script, that will check what mods have an existing version for the target Minecraft version. To run the script use the following command, an example to check the modpacks compability with the Minecraft 1.21.4 version:
+
+**macOS/Linux**
+
+```bash
+python3 scripts/test-update.py -v 1.21.4
+```
+
+**Windows (run in PowerShell)**
+
+```powershell
+py scripts\test-update.py -v 1.21.4
+```
+
+The script also has an optional `-f` flag that can be used to check for multiple updates at once. If you add the `-f` flag to the command above, it will check from the minecraft version 1.21.4 all the way up to the latest version of Minecraft released, at the time of writing this 1.21.8. This is mainly use to check how much you can update the modpack without breaking too many mods in the modpack.
+
+<br>
+
+If all mods have a compatible version for the Minecraft version you want to update to, go to the [pack.toml](./pack.toml) file, and look for the `minecraft` field under the `versions` section. Change that to your desired Minecraft version, and then update the modpack using the following command:
+
+```bash
+packwiz update -a
+```
+
+> [!WARNING]
+> This only updates content managed by `packwiz`, all external content has to be updated manually!
+
 ### Python Scripts
 
 There are some Python scripts in this repo to help automate redundant tasks, such as modlist creation, or making the Modrinth `README`. These scripts use a Python virtual environment with dependencies specified in [`requirements.txt`](./requirements.txt).
@@ -228,7 +257,7 @@ or on **Windows**:
 .venv\Scripts\Activate.ps1
 ```
 
-#### 🛑 When you’re done
+#### 📦 When you’re done
 
 You can deactivate the virtual environment with:
 
