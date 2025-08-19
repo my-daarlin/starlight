@@ -38,67 +38,16 @@ This modpack is built to feel like **Minecraft, but smoother and faster** — a 
 
 ## 📦 Installation
 
-### 💚 Modrinth Launcher (Recommended)
+### 💚 [Modrinth Launcher](https://modrinth.com/app) (Recommended)
 
-1. Install the [Modrinth App](https://modrinth.com/app)
-2. Search for **Starlight**, or visit [the website](https://modrinth.com/project/kWqlGiOE)
-3. Click **Install**
+1. Search for **Starlight**, or visit [the website](https://modrinth.com/project/kWqlGiOE)
+2. Click **Install**
 
----
+### 💙 [Prism Launcher](https://prismlauncher.org/)
 
-## 🧑‍💻 Development Guide
-
-Starlight uses [Packwiz](https://packwiz.infra.link/) for modpack management. This allows simple mod additions, version locking, and repeatable builds via Git. To install it, first [install the Go language](https://go.dev/doc/install) and then run this command:
-
-```bash
-go install github.com/packwiz/packwiz@latest
-```
-
-### 💚 Adding Modrinth content
-
-```bash
-packwiz modrinth add <mod-slug>
-```
-
-This will create a `.toml` file in `mods/` for the mod.
-
-> [!WARNING]
-> Do not use any other packwiz library other than Modrinth (Curseforge etc.). It would break all the project automatization and scripts. Add it like you would add custom content.
-
-### 💜 Adding custom content
-
-There is an `override` folder in the project. Everything from there will get merged with the project files during packaging. For example if I have a custom mod, I will place it in `overrides/mods/mod.jar` and during packaging, it will be put into `root/mods`. You can also use it for other custom content, like default option file (should be in `overrides/options.txt`) or the config directory.
-
-### ↔️ Update All Mods
-
-```bash
-packwiz update -a
-```
-
-### 📆 Export
-
-To generate a `.mrpack` file for Modrinth or manual distribution, use the `package.sh` script. To run it, go to the project root, and execute the following:
-
-```bash
-sh package.sh
-```
-
-This will include:
-
-- All mod `.jar` links and metadata
-- Everything from the `overrides/` folder (config, resourcepacks, etc.)
-- Anything else in the repository not included in the `.packwizignore` file
-
-To generate a mod list with mod names and modrinth links (NOT including custom content in `overrides`), run the `generate-modlist.sh` script by running:
-
-```bash
-sh update-content-list.sh
-```
-
-This script will generate all a list of all Packwiz content and its links, and will paste it between tartget HTML comments.
-
-> [!WARNING]
-> Running this script will replace all text in between those tags (to remove the old modlist). Do not write anything you want to keep in there!
+1. Click on _Add Instance_ in the top left corner
+2. Click on **Modrinth** in the left sidebar
+3. Search for Starlight, and look for a pink **S** logo
 
 <!-- MODRINTH_REMOVE_END -->
 
@@ -210,6 +159,96 @@ _(Coming soon – will include how much fps it gets where)_
     <img src="./public/screenshots/game-day.png" alt="Game Day Screenshot" width="49%">
     <img src="./public/screenshots/game-night.png" alt="Game Night Screenshot" width="49%">
 </p>
+
+## 🧑‍💻 Development Guide
+
+Starlight uses [Packwiz](https://packwiz.infra.link/) for modpack management. This allows simple mod additions, version locking, and repeatable builds via Git. To install it, first [install the Go language](https://go.dev/doc/install) and then run this command:
+
+```bash
+go install github.com/packwiz/packwiz@latest
+```
+
+### 💚 Adding Modrinth content
+
+```bash
+packwiz modrinth add <mod-slug>
+```
+
+This will create a `.toml` file in `mods/` for mods, `resourcepacks/` for resource packs, and `shaderpacks/` for shaderpacks.
+
+> [!WARNING]
+> Do not use any other packwiz library other than Modrinth (Curseforge etc.). It would break all the project automatization and scripts. Add it like you would add custom content.
+
+### 💜 Adding custom content
+
+There is an `override` folder in the project. Everything from there will get merged with the project files during packaging. For example if I have a custom mod, I will place it in `overrides/mods/mod.jar` and during packaging, it will be put into `mods/mod.jar`. You can also use it for other custom content, like default option file (should be in `overrides/options.txt`) or the config directory.
+
+### ↔️ Update All Modrinth Mods
+
+```bash
+packwiz update -a
+```
+
+### 📆 Export
+
+To generate a `.mrpack` file for Modrinth or manual distribution, use the `package.sh` script. To run it, go to the project root, and execute the following:
+
+```bash
+chmod +x ./package.sh
+./package.sh
+```
+
+This will include:
+
+- All mod `.jar` links and metadata
+- Everything from the `overrides/` folder (config, resourcepacks, etc.)
+- Anything else in the repository not included in the `.packwizignore` file
+
+### Python Scripts
+
+There are some Python scripts in this repo to help automate redundant tasks, such as modlist creation, or making the Modrinth `README`. These scripts use a Python virtual environment with dependencies specified in [`requirements.txt`](./requirements.txt).
+
+#### 🔧 First-time setup (after cloning the repo)
+
+Run these commands in the project root:
+
+**macOS/Linux**
+
+```bash
+python3 -m venv .venv               # Create a new virtual environment
+source .venv/bin/activate           # Activate it
+pip install -r requirements.txt     # Install all required dependencies
+```
+
+**Windows (PowerShell)**
+
+```powershell
+py -m venv .venv                    # Create a new virtual environment
+.venv\Scripts\Activate.ps1          # Activate it
+pip install -r requirements.txt     # Install all required dependencies
+```
+
+#### 🚀 Every time you want to use the scripts
+
+You only need to activate the venv:
+
+```bash
+source .venv/bin/activate
+```
+
+or on **Windows**:
+
+```
+.venv\Scripts\Activate.ps1
+```
+
+#### 🛑 When you’re done
+
+You can deactivate the virtual environment with:
+
+```bash
+deactivate
+```
 
 <!-- MODRINTH_REMOVE_END -->
 
